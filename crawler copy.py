@@ -4,10 +4,11 @@ from bs4 import BeautifulSoup
 
 def crawler(url: str, category: str, selectors: dict):
     print('시작')
+    results = []
 
     with sync_playwright() as p:
         # headless=True: 브라우저 창 안 띄움
-        browser = p.chromium.launch(headless=True)
+        browser = p.chromium.launch(headless=False)
         page = browser.new_page()
         page.goto(url, wait_until="networkidle")
         # page.goto("https://shop.danawa.com/virtualestimate/?controller=estimateMain&methods=index&marketPlaceSeq=16")
@@ -15,38 +16,35 @@ def crawler(url: str, category: str, selectors: dict):
         # 카테고리 버튼 클릭 (예: CPU, 메모리, 그래픽카드 등)
         print(page.locator(str(selectors["button"]), has_text=str(category)))
         page.locator(str(selectors["button"]), has_text=str(category)).click()
-        # page.wait_for_timeout(1000 * 5)  # 렌더링 대기 (5초)
+        # 상품 테이블 로드 기다리기
         page.wait_for_selector(".tbl_list")
 
-        html = page.content()
-        browser.close()
+        # 여기서 BeautifulSoup 대신 Playwright로 직접 읽기 시작
+        rows = page.locator(selectors["item"])
 
-    # BeautifulSoup으로 HTML 파싱
-    soup = BeautifulSoup(html, "html.parser")
-    print(soup)
-    items = soup.select(selectors["item"])
+        print("rows", rows)
 
-    results = []
-    for item in items:
-        try:
-            title_tag = item.select_one(selectors["title"])
-            price_tag = item.select_one(selectors["price"])
+        for i in range(rows.count()):
+            try:
+                item = rows.nth(i)
+                title_element = item.locator(selectors["title"])
+                price_element = item.locator(selectors["price"])
 
-            if title_tag and price_tag:
-                name = title_tag.text.strip()
-                # 숫자만 남기고 정수 변환
-                price = int(''.join(filter(str.isdigit, price_tag.text)))
-                link = title_tag["href"]
-                print(link)
+                name = title_element.inner_text().strip()
+                price_text = price_element.inner_text().strip()
+                price = int(''.join(filter(str.isdigit, price_text)))
+                link = title_element.get_attribute('href')
 
                 results.append({
                     "name": name,
                     "price": price,
                     "link": link
                 })
-        except Exception as e:
-            print(f"오류 발생: {e}")
-            continue
+            except Exception as e:
+                print(f"오류 발생: {e}")
+                continue
+
+        browser.close()
 
     return results
 
