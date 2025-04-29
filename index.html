@@ -150,8 +150,10 @@
       let loadedParts = []; // 서버에서 받아온 전체 부품
       let lens = []; // 사이트별 부품 개수 배열
       let siteParts = []; // 사이트별 부품 배열로 분리한 것
+      let selectCategory = "";
 
       async function loadParts(category) {
+        selectCategory = category;
         document.getElementById(
           "category-title"
         ).textContent = `${category} 목록`;
@@ -210,7 +212,7 @@
             <a href="${
               part.link
             }" target="_blank" class="text-sm text-blue-500 underline">상세 보기</a>
-            <button onclick='selectPart("${part.category || ""}", "${
+            <button onclick='selectPart("${selectCategory || ""}", "${
             part.name
           }", ${part.price})'
               class="mt-2 block w-full bg-blue-500 text-white py-1 rounded hover:bg-blue-600">담기</button>
@@ -220,6 +222,7 @@
       }
 
       function selectPart(category, name, price) {
+        console.log(category);
         selectedParts.push({ category, name, price });
         updateSelectedList();
       }
