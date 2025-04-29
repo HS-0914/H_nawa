@@ -1,0 +1,2237 @@
+[
+    {
+        "name": "[AMD] 라이젠7 그래니트 9800X3D (8코어/16스레드/4.7GHz/쿨러미포함) [멀티팩][1187400]",
+        "price": 770000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1187400"
+    },
+    {
+        "name": "[AMD] 라이젠7 라파엘 7800X3D (8코어/16스레드/4.2GHz/쿨러미포함) 멀티팩[1013843]",
+        "price": 549000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1013843"
+    },
+    {
+        "name": "[AMD] 라이젠 5 버미어 5600 (6코어/12스레드/3.5GHz/쿨러포함/대리점정품) 멀티팩[893905]",
+        "price": 130000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=893905"
+    },
+    {
+        "name": "[INTEL] 코어 i5-14400 (랩터레이크 리프레시/2.5GHz/20MB) [정품벌크/쿨러미포함][1108511]",
+        "price": 259000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1108511"
+    },
+    {
+        "name": "[AMD] 라이젠 3 피카소 3200G (4코어/4스레드/3.6GHz/쿨러포함/대리점정품) 멀티팩 [1146092]",
+        "price": 100000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1146092"
+    },
+    {
+        "name": "[AMD] 라이젠7 그래니트 9700X (8코어/16스레드/3.8GHz/대리점정품/쿨러포함) 멀티팩 [1164054]",
+        "price": 469800,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1164054"
+    },
+    {
+        "name": "[INTEL] 코어 i5-14400 (랩터레이크 리프레시/2.5GHz/20MB) [정품박스/쿨러포함][1102707]",
+        "price": 261000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1102707"
+    },
+    {
+        "name": "[AMD] 라이젠5 라파엘 7500F (6코어/12스레드/3.7GHz/대리점정품/멀티팩) 쿨러미포함[1062764]",
+        "price": 214000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1062764"
+    },
+    {
+        "name": "[AMD] 라이젠5 세잔 5600G (6코어/12스레드/3.9GHz/쿨러포함) [멀티팩][1216681]",
+        "price": 155000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1216681"
+    },
+    {
+        "name": "[INTEL] 코어 i5-14400F (랩터레이크 리프레시/2.5GHz/20MB) [정품박스/쿨러포함][1102703]",
+        "price": 235000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1102703"
+    },
+    {
+        "name": "[INTEL] 코어 i7-14700K (랩터레이크 리프레시/3.4GHz/33MB) [정품박스/쿨러미포함][1078453]",
+        "price": 541000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1078453"
+    },
+    {
+        "name": "[INTEL] 코어 i7-14700KF 정품박스 (랩터레이크 리프레시/3.4GHz/33MB/쿨러 미포함) [1078452]",
+        "price": 514000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1078452"
+    },
+    {
+        "name": "[AMD] 라이젠5 세잔 5600GT (6코어/12스레드/3.6GHz/쿨러포함/대리점정품) 멀티팩 [1161736]",
+        "price": 167000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1161736"
+    },
+    {
+        "name": "[AMD] 라이젠5 그래니트 9600X (6코어/12스레드/3.9GHz/대리점정품/쿨러포함) 멀티팩 [1164055]",
+        "price": 342000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1164055"
+    },
+    {
+        "name": "[AMD] 라이젠9 그래니트 9950X (16코어/32스레드/4.3GHz/대리점정품/쿨러미포함) [정품박스][1164048]",
+        "price": 980000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1164048"
+    },
+    {
+        "name": "[AMD] 라이젠 스레드리퍼 PRO 7995WX (스톰 픽) (96코어/192스레드/2.5GHz/쿨러미포함/대리점정품/Threadripper PRO) 멀티팩 [1172766]",
+        "price": 14471290,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1172766"
+    },
+    {
+        "name": "[INTEL] 코어 i5-14600K 정품박스 (랩터레이크 리프레시/3.5GHz/24MB/쿨러 미포함) [1078414]",
+        "price": 357000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1078414"
+    },
+    {
+        "name": "[AMD] 라이젠5 라파엘 7600 (6코어/12스레드/3.8GHz/쿨러포함/대리점정품/멀티팩) [983372]",
+        "price": 265810,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=983372"
+    },
+    {
+        "name": "[INTEL] 인텔 코어 Ultra 7 프로세서 265K (애로우 레이크/3.9GHz/30MB/쿨러미포함) [정품박스][1183677]",
+        "price": 540000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1183677"
+    },
+    {
+        "name": "[AMD] 라이젠9 그래니트 9900X3D (12코어/24스레드/4.4GHz/쿨러미포함) [멀티팩] [1220479]",
+        "price": 1079000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1220479"
+    },
+    {
+        "name": "[AMD] 라이젠7 그래니트 9800X3D (8코어/16스레드/4.7GHz/쿨러미포함) [정품박스][1187401]",
+        "price": 810000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1187401"
+    },
+    {
+        "name": "[INTEL] 코어 i7-14700 정품박스 (랩터레이크 리프레시/2.1GHz/33MB/쿨러 포함) [1102709]",
+        "price": 499000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1102709"
+    },
+    {
+        "name": "[INTEL] 코어12세대 i5-12400F (엘더레이크/2.50GHz/18MB) [정품박스/쿨러포함][867859]",
+        "price": 161000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=867859"
+    },
+    {
+        "name": "[INTEL] 코어12세대 i5-12400 벌크 (엘더레이크/2.5GHz/18MB/병행수입) 쿨러 포함[872240]",
+        "price": 202000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=872240"
+    },
+    {
+        "name": "[AMD] 라이젠5 피닉스 8500G (6코어/12스레드/3.5GHz/쿨러포함/대리점정품) 멀티팩 [1164585]",
+        "price": 223000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1164585"
+    },
+    {
+        "name": "[INTEL] 인텔 코어 Ultra 9 프로세서 285K (애로우 레이크/쿨러미포함) [정품박스][1183676]",
+        "price": 932900,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1183676"
+    },
+    {
+        "name": "[AMD] 라이젠9 그래니트 9950X (16코어/32스레드/4.3GHz/대리점정품/쿨러미포함) [멀티팩][1164047]",
+        "price": 950000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1164047"
+    },
+    {
+        "name": "[INTEL] 코어13세대 I5-13400 벌크  (랩터레이크/2.5GHz/20MB/병행수입) 동쿨러 포함[981944]",
+        "price": 210000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=981944"
+    },
+    {
+        "name": "[INTEL] 코어 i7-14700 정품벌크 (랩터레이크 리프레시/2.1GHz/33MB/쿨러 미포함) [1108539]",
+        "price": 489000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1108539"
+    },
+    {
+        "name": "[AMD] 라이젠7 피닉스 8700G (8코어/16스레드/4.2GHz/쿨러포함/대리점정품) 멀티팩 [1159096]",
+        "price": 378000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1159096"
+    },
+    {
+        "name": "[INTEL] 코어14세대 i5-14400 벌크 (랩터레이크 리프레시/2.5GHz/20MB/병행수입) 동쿨러 포함[1108550]",
+        "price": 215000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1108550"
+    },
+    {
+        "name": "[AMD] 라이젠5 피닉스 8600G (6코어/12스레드/4.3GHz/쿨러포함/대리점정품) 멀티팩 [1164584]",
+        "price": 253800,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1164584"
+    },
+    {
+        "name": "[INTEL] 코어 i5-14400F (랩터레이크 리프레시/2.5GHz/20MB) [밸류팩/쿨러포함][1215660]",
+        "price": 185000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1215660"
+    },
+    {
+        "name": "[AMD] 라이젠9 라파엘 7900 (12코어/24스레드/3.7GHz/프리즘쿨러포함/대리점정품/멀티팩) [983370]",
+        "price": 524000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=983370"
+    },
+    {
+        "name": "[INTEL] 코어12세대 i5-12400 벌크 (엘더레이크/2.5GHz/18MB/병행수입) 동쿨러 포함[872239]",
+        "price": 203000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=872239"
+    },
+    {
+        "name": "[INTEL] 코어 i9-14900KF 정품박스 (랩터레이크 리프레시/3.2GHz/36MB/쿨러 미포함) [1078415]",
+        "price": 680000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1078415"
+    },
+    {
+        "name": "[INTEL] 코어 i5-14600KF (랩터레이크 리프레시/3.5GHz/24MB) [밸류팩/쿨러미포함][1215659]",
+        "price": 283000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1215659"
+    },
+    {
+        "name": "[INTEL] 코어 i3-14100 정품박스 (랩터레이크 리프레시/3.5GHz/12MB/쿨러 포함) [1102706]",
+        "price": 173000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1102706"
+    },
+    {
+        "name": "[INTEL] 코어12세대 i5-12400F 벌크 (엘더레이크/2.5GHz/18MB/병행수입) 쿨러미포함[870572]",
+        "price": 147000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=870572"
+    },
+    {
+        "name": "[INTEL] 코어14세대 i5-14400F 벌크 (랩터레이크 리프레시/2.5GHz/20MB/병행수입) 쿨러 미포함[1108560]",
+        "price": 172000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1108560"
+    },
+    {
+        "name": "[INTEL] 코어 i7-14700F (랩터레이크 리프레시/2.1GHz/33MB) [정품박스/쿨러포함][1102702]",
+        "price": 458000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1102702"
+    },
+    {
+        "name": "[AMD] 라이젠5 라파엘 7500F (6코어/12스레드/3.7GHz/대리점정품/멀티팩) 쿨러포함[1050102]",
+        "price": 220000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1050102"
+    },
+    {
+        "name": "[INTEL] 코어13세대 i7-13700 정품벌크 (랩터레이크/2.10GHz/30MB/쿨러 미포함) [981963]",
+        "price": 479000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=981963"
+    },
+    {
+        "name": "[INTEL] 코어13세대 I5-13400F 벌크 (랩터레이크/2.5GHz/20MB/병행수입) 쿨러 미포함[981951]",
+        "price": 154500,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=981951"
+    },
+    {
+        "name": "[INTEL] 코어14세대 I7-14700K 벌크 쿨러 미포함 ( 랩터레이크/3.4GHz/28MB/병행수입) [1082818]",
+        "price": 513000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1082818"
+    },
+    {
+        "name": "[INTEL] 인텔 코어 Ultra 9 프로세서 285K (애로우 레이크/쿨러미포함) [정품벌크][1186165]",
+        "price": 910000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1186165"
+    },
+    {
+        "name": "[AMD] 라이젠7 라파엘 7700 (8코어/16스레드/3.8GHz/프리즘쿨러포함/대리점정품/멀티팩) [983371]",
+        "price": 357000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=983371"
+    },
+    {
+        "name": "[AMD] 라이젠5 라파엘 7600 (6코어/12스레드/3.8GHz/쿨러 미포함/대리점정품/멀티팩) [1102431]",
+        "price": 259000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1102431"
+    },
+    {
+        "name": "[INTEL] 코어12세대 i5-12400 (엘더레이크 /2.50GHz/18MB) [정품박스/쿨러포함][867860]",
+        "price": 211000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=867860"
+    },
+    {
+        "name": "[INTEL] 코어14세대 i5-14400 벌크 (랩터레이크 리프레시/2.5GHz/20MB/병행수입) 쿨러 미포함[1108545]",
+        "price": 204000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1108545"
+    },
+    {
+        "name": "[INTEL] 코어12세대 i3-12100 벌크 (엘더레이크/3.3GHz/12MB/병행수입) 쿨러 포함[892764]",
+        "price": 145000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=892764"
+    },
+    {
+        "name": "[INTEL] 코어14세대 I7-14700KF 벌크 쿨러 미포함 ( 랩터레이크/3.4GHz/33MB/병행수입) [1082817]",
+        "price": 452000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1082817"
+    },
+    {
+        "name": "[INTEL] 코어14세대 i7-14700F 벌크 (랩터레이크 리프레시/2.1GHz/33MB/병행수입) 쿨러 미포함[1108566]",
+        "price": 425000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1108566"
+    },
+    {
+        "name": "[AMD] 라이젠9 그래니트 9900X3D (12코어/24스레드/4.4GHz/쿨러미포함) [정품박스][1220507]",
+        "price": 1099000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1220507"
+    },
+    {
+        "name": "[INTEL] 코어12세대 i7-12700 벌크 (엘더레이크/2.1GHz/25MB/병행수입) 동쿨러 포함[872246]",
+        "price": 390000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=872246"
+    },
+    {
+        "name": "[AMD] 라이젠9-5세대 7900X 라파엘 (12코어/24스레드/4.7GHz/정품/멀티팩/쿨러미포함) [1073787]",
+        "price": 545000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1073787"
+    },
+    {
+        "name": "[INTEL] 코어12세대 i7-12700 벌크 (엘더레이크/2.1GHz/25MB/병행수입) 쿨러미포함[870568]",
+        "price": 379000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=870568"
+    },
+    {
+        "name": "[INTEL] 코어 i5-14600KF (랩터레이크 리프레시/3.5GHz/24MB) [정품박스/쿨러미포함][1078454]",
+        "price": 315000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1078454"
+    },
+    {
+        "name": "[INTEL] 코어 i5-14500 (랩터레이크 리프레시/2.6GHz/24MB) [정품박스/쿨러포함][1102708]",
+        "price": 369000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1102708"
+    },
+    {
+        "name": "[AMD] 라이젠9-4세대 버미어 5900XT (16코어/32스레드/3.4GHz/쿨러미포함) [1164053]",
+        "price": 527000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1164053"
+    },
+    {
+        "name": "[INTEL] 코어12세대 i7-12700 (엘더레이크/2.10GHz/25MB) [정품박스/쿨러포함][874350]",
+        "price": 418000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=874350"
+    },
+    {
+        "name": "[INTEL] 코어12세대 i5-12400F 벌크 (엘더레이크/2.5GHz/18MB/병행수입) 동쿨러 포함[872234]",
+        "price": 158000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=872234"
+    },
+    {
+        "name": "[AMD] 라이젠 7 버미어 5700X (8코어/16스레드/3.4GHz/쿨러미포함/대리점정품/멀티팩) [893907]",
+        "price": 219000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=893907"
+    },
+    {
+        "name": "[AMD] 라이젠7 피닉스 8700F (8코어/16스레드/4.1GHz/쿨러포함/대리점정품) 멀티팩 [1144892]",
+        "price": 235000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1144892"
+    },
+    {
+        "name": "[INTEL] 코어14세대 I9-14900K 벌크 쿨러 미포함 ( 랩터레이크/3.2GHz/36MB/병행수입) [1082816]",
+        "price": 661000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1082816"
+    },
+    {
+        "name": "[INTEL] 코어12세대 i3-12100 벌크 (엘더레이크/3.3GHz/12MB/병행수입) 동쿨러포함[896029]",
+        "price": 146000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=896029"
+    },
+    {
+        "name": "[INTEL] 코어14세대 i7-14700 벌크 (랩터레이크 리프레시/2.1GHz/33MB/병행수입) 쿨러 미포함[1108547]",
+        "price": 464000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1108547"
+    },
+    {
+        "name": "[INTEL] 코어12세대 i5-12400 벌크 (엘더레이크/2.5GHz/18MB/병행수입) 쿨러 미포함[870571]",
+        "price": 189000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=870571"
+    },
+    {
+        "name": "[INTEL] 인텔 코어 Ultra 9 프로세서 285K 벌크 (애로우 레이크/3.7GHz/36MB/쿨러미포함) [1186794]",
+        "price": 878000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1186794"
+    },
+    {
+        "name": "[AMD] 라이젠3 세잔 5300G (4코어/8스레드/4.0GHz/쿨러포함/대리점정품) 멀티팩 [1186162]",
+        "price": 140000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1186162"
+    },
+    {
+        "name": "[INTEL] 코어12세대 i3-12100 정품박스(엘더레이크/3.30GHz/12MB/쿨러 포함) [874610]",
+        "price": 160000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=874610"
+    },
+    {
+        "name": "[INTEL] 코어14세대 i3-14100 벌크 (랩터레이크 리프레시/3.5GHz/12MB/병행수입) 동쿨러 포함[1108535]",
+        "price": 167000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1108535"
+    },
+    {
+        "name": "[INTEL] 코어14세대 i7-14700 벌크 (랩터레이크 리프레시/2.1GHz/33MB/병행수입) 동쿨러 포함[1108552]",
+        "price": 477000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1108552"
+    },
+    {
+        "name": "[INTEL] 코어14세대 I5-14600K 벌크 쿨러 미포함 (랩터레이크/3.5GHz/20MB/병행수입) [1082820]",
+        "price": 299000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1082820"
+    },
+    {
+        "name": "[INTEL] 코어13세대 I7-13700F 벌크 쿨러 미포함 (랩터레이크/2.1GHz/30MB/병행수입) [981952]",
+        "price": 359000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=981952"
+    },
+    {
+        "name": "[AMD] 라이젠7 그래니트 9700X (8코어/16스레드/3.8GHz/대리점정품/쿨러미포함) [정품박스][1164056]",
+        "price": 477000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1164056"
+    },
+    {
+        "name": "[AMD] 라이젠 스레드리퍼 7980X (스톰 픽)(64코어/128스레드/3.2GHz/쿨러미포함/대리점정품/Threadripper) 멀티팩 [1131923]",
+        "price": 7150000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1131923"
+    },
+    {
+        "name": "[INTEL] 코어12세대 i7-12700K 벌크 쿨러미포함 (엘더레이크/3.6GHz/25MB/병행수입) [859962]",
+        "price": 351000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=859962"
+    },
+    {
+        "name": "[INTEL] 코어13세대 I5-13400 벌크  (랩터레이크/2.5GHz/20MB/병행수입) 쿨러 미포함[981970]",
+        "price": 199000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=981970"
+    },
+    {
+        "name": "[INTEL] 코어 i9-14900K 정품박스 (랩터레이크 리프레시/3.2GHz/36MB/쿨러 미포함) [1078416]",
+        "price": 729000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1078416"
+    },
+    {
+        "name": "[INTEL] 인텔 코어 Ultra 7 프로세서 265KF  (애로우 레이크/3.9GHz/30MB/쿨러미포함) [정품박스][1183678]",
+        "price": 502000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1183678"
+    },
+    {
+        "name": "[INTEL] 코어12세대 펜티엄 골드 G7400 벌크 쿨러 미포함(엘더레이크/3.7GHz/6MB/병행수입) [870560]",
+        "price": 89500,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=870560"
+    },
+    {
+        "name": "[INTEL] 코어14세대 i3-14100 벌크 (랩터레이크 리프레시/3.5GHz/12MB/병행수입) 쿨러 미포함[1108544]",
+        "price": 152000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1108544"
+    },
+    {
+        "name": "[INTEL] 코어13세대 I5-13400 벌크  (랩터레이크/2.5GHz/20MB/병행수입) 쿨러 포함[981958]",
+        "price": 209000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=981958"
+    },
+    {
+        "name": "[INTEL] 코어13세대 I5-13400F 벌크 (랩터레이크/2.5GHz/20MB/병행수입) 쿨러 포함[981939]",
+        "price": 164000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=981939"
+    },
+    {
+        "name": "[INTEL] 인텔 코어 Ultra 5 프로세서 235 (애로우레이크/쿨러포함)[정품박스] [1203130]",
+        "price": 390000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1203130"
+    },
+    {
+        "name": "[INTEL] 코어14세대 I9-14900KF 벌크 쿨러 미포함 ( 랩터레이크/3.2GHz/36MB/병행수입) [1082815]",
+        "price": 609000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1082815"
+    },
+    {
+        "name": "[INTEL] 인텔 코어 Ultra 7 프로세서 265 (애로우 레이크/2.4GHz/30MB/쿨러포함) [정품박스][1203133]",
+        "price": 513000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1203133"
+    },
+    {
+        "name": "[INTEL] 코어14세대 i5-14500 벌크 (랩터레이크 리프레시/2.6GHz/24MB/병행수입) 동쿨러 포함[1108551]",
+        "price": 322000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1108551"
+    },
+    {
+        "name": "[INTEL] 인텔 코어 Ultra 5 프로세서 225 (애로우레이크/쿨러포함) [정품박스] [1203135]",
+        "price": 392100,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1203135"
+    },
+    {
+        "name": "[INTEL] 코어12세대 i3-12100 벌크 (엘더레이크/3.3GHz/12MB/병행수입) 쿨러미포함[892184]",
+        "price": 134000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=892184"
+    },
+    {
+        "name": "[AMD] 라이젠 스레드리퍼 PRO 7965WX (스톰 픽) (24코어/48스레드/4.2GHz/쿨러미포함/대리점정품/멀티팩/Threadripper) [1100291]",
+        "price": 4107000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1100291"
+    },
+    {
+        "name": "[INTEL] 코어12세대 i3-12100F 벌크 (엘더레이크/3.3GHz/12MB/병행수입) 쿨러미포함[868334]",
+        "price": 67000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=868334"
+    },
+    {
+        "name": "[INTEL] 코어13세대 I9-13900K 벌크 쿨러 미포함 (랩터레이크/3.0GHz/36MB/병행수입) [963365]",
+        "price": 666000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=963365"
+    },
+    {
+        "name": "[INTEL] 인텔 코어 Ultra 7 프로세서 265KF 벌크 (애로우 레이크/3.9GHz/30MB/쿨러미포함) [1186795]",
+        "price": 484000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1186795"
+    },
+    {
+        "name": "[INTEL] 인텔 코어 Ultra 9 프로세서 285 (애로우 레이크/쿨러포함) [정품박스] [1203131]",
+        "price": 880000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1203131"
+    },
+    {
+        "name": "[INTEL] 코어14세대 I5-14600KF 벌크 쿨러 미포함 ( 랩터레이크/3.5GHz/20MB/병행수입) [1082819]",
+        "price": 270000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1082819"
+    },
+    {
+        "name": "[INTEL] 코어13세대 i7-13700 벌크 (랩터레이크/2.1GHz/30MB/병행수입) 쿨러 미포함[981974]",
+        "price": 465000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=981974"
+    },
+    {
+        "name": "[INTEL] 코어12세대 i5-12400F 벌크 (엘더레이크/2.5GHz/18MB/병행수입) 쿨러 포함[872237]",
+        "price": 156400,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=872237"
+    },
+    {
+        "name": "[INTEL] 인텔 코어 Ultra 5 프로세서 245K 벌크 (애로우 레이크/쿨러미포함) 병행수입 [1186798]",
+        "price": 389000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1186798"
+    },
+    {
+        "name": "[AMD] 라이젠5 그래니트 9600X (6코어/12스레드/3.9GHz/대리점정품/쿨러미포함) 정품박스[1164051]",
+        "price": 380000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1164051"
+    },
+    {
+        "name": "[INTEL] 코어 i9-14900 정품박스 (랩터레이크 리프레시/2.0GHz/33MB/쿨러 포함) [1102710]",
+        "price": 877000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1102710"
+    },
+    {
+        "name": "[INTEL] 인텔® 제온® Gold 6421N 프로세서 Tray [1141240]",
+        "price": 3911000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141240"
+    },
+    {
+        "name": "[INTEL] 코어13세대 i7-13700F (랩터레이크/2.10GHz/30MB) 정품박스[979922]",
+        "price": 469900,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=979922"
+    },
+    {
+        "name": "[AMD] 라이젠7-4세대 버미어 5800XT (8코어/16스레드/3.8GHz/쿨러포함) [1164052]",
+        "price": 377000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1164052"
+    },
+    {
+        "name": "[AMD] 라이젠7 세잔 5700G (8코어/16스레드/3.8GHz/쿨러포함/대리점정품) [1120310]",
+        "price": 269000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1120310"
+    },
+    {
+        "name": "[AMD] 라이젠5 그래니트 9600 (6코어/12스레드/3.8GHz/대리점정품) [멀티팩/쿨러미포함][1218343]",
+        "price": 323000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1218343"
+    },
+    {
+        "name": "[INTEL] 코어13세대 I5-13400F 벌크 (랩터레이크/2.5GHz/20MB/병행수입) 동쿨러 포함[981943]",
+        "price": 166000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=981943"
+    },
+    {
+        "name": "[INTEL] 코어 i7-14700F (랩터레이크 리프레시/2.1GHz/33MB) [정품벌크/쿨러미포함][1112686]",
+        "price": 459000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1112686"
+    },
+    {
+        "name": "[INTEL] 코어14세대 i7-14700F 벌크 (랩터레이크 리프레시/2.1GHz/33MB/병행수입) 동쿨러 포함[1108518]",
+        "price": 438000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1108518"
+    },
+    {
+        "name": "[AMD] 라이젠5 버미어 5600XT (6코어/12스레드/3.5GHz/쿨러포함) 멀티팩 [1203129]",
+        "price": 180000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1203129"
+    },
+    {
+        "name": "[AMD] 라이젠 스레드리퍼 7970X (스톰 픽)(32코어/64스레드/4.0GHz/쿨러미포함/대리점정품/Threadripper) 멀티팩 [1131924]",
+        "price": 3520300,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1131924"
+    },
+    {
+        "name": "[INTEL] 코어 i3-14100F (랩터레이크 리프레시/3.5GHz/12MB) [정품박스/쿨러포함][1102704]",
+        "price": 122000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1102704"
+    },
+    {
+        "name": "[INTEL] 코어14세대 i5-14500 벌크 (랩터레이크 리프레시/2.6GHz/24MB/병행수입) 쿨러 미포함[1108546]",
+        "price": 310000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1108546"
+    },
+    {
+        "name": "[INTEL] 코어13세대 I3-13100F 벌크 쿨러 미포함 (랩터레이크/3.4GHz/12MB/병행수입) [981950]",
+        "price": 82000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=981950"
+    },
+    {
+        "name": "[INTEL] 코어13세대 i5-13400F (랩터레이크/2.5GHz/20MB) 정품박스[979918]",
+        "price": 192000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=979918"
+    },
+    {
+        "name": "[INTEL] 코어12세대 i3-12100F 벌크 (엘더레이크/3.3GHz/12MB/병행수입) 동쿨러 포함[889828]",
+        "price": 79500,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=889828"
+    },
+    {
+        "name": "[INTEL] 코어12세대 i3-12100F 벌크 (엘더레이크/3.3GHz/12MB/병행수입) 쿨러 포함[890166]",
+        "price": 79500,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=890166"
+    },
+    {
+        "name": "[INTEL] 코어10세대 i5-10400F 벌크 (코멧레이크/2.90GHz/12MB/병행수입) 쿨러 포함[673485]",
+        "price": 113000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=673485"
+    },
+    {
+        "name": "[INTEL] 코어12세대 i7-12700F 벌크 (엘더레이크/2.1GHz/25MB/병행수입) 쿨러미포함[870569]",
+        "price": 311000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=870569"
+    },
+    {
+        "name": "[INTEL] 코어13세대 i5-13400F (랩터레이크/2.5GHz/20MB) 정품벌크[981965]",
+        "price": 185000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=981965"
+    },
+    {
+        "name": "[INTEL] 코어13세대 i7-13700 벌크 (랩터레이크/2.1GHz/30MB/병행수입) 동쿨러 포함[981942]",
+        "price": 477000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=981942"
+    },
+    {
+        "name": "[INTEL] 인텔 코어 Ultra 7 프로세서 265F (애로우 레이크/2.4GHz/30MB/쿨러포함)[정품박스] [1203132]",
+        "price": 496000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1203132"
+    },
+    {
+        "name": "[INTEL] 코어13세대 i5-13400(랩터레이크/2.5GHz/20MB) [정품박스/쿨러포함][979921]",
+        "price": 244000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=979921"
+    },
+    {
+        "name": "[INTEL] 코어 12세대 i7-12700KF 벌크 쿨러미포함 (엘더레이크/3.6GHz/25MB/병행수입) [859959]",
+        "price": 286000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=859959"
+    },
+    {
+        "name": "[AMD] 라이젠 5 4500 [르누아르] (6코어/12스레드/3.6GHz/쿨러포함/대리점정품/멀티팩) [893909]",
+        "price": 101900,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=893909"
+    },
+    {
+        "name": "[AMD] 라이젠 스레드리퍼 PRO 7955WX (스톰 픽) (16코어/32스레드/4.5GHz/쿨러미포함/대리점정품/Threadripper PRO) [1195194]",
+        "price": 2700000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1195194"
+    },
+    {
+        "name": "[AMD] 라이젠 5 버미어 5600T (6코어/12스레드/3.7GHz/쿨러포함/대리점정품) 멀티팩 [1186161]",
+        "price": 148000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1186161"
+    },
+    {
+        "name": "[INTEL] 코어13세대 I7-13700K 벌크 쿨러 미포함 (랩터레이크/3.4GHz/30MB/병행수입) [963368]",
+        "price": 492000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=963368"
+    },
+    {
+        "name": "[INTEL] 코어13세대 i5-13500 벌크 (랩터레이크/2.5GHz/24MB/병행수입) 쿨러 포함[981956]",
+        "price": 318000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=981956"
+    },
+    {
+        "name": "[INTEL] 코어12세대 i7-12700F 정품박스(엘더레이크/2.10GHz/25MB/쿨러 포함) [874363]",
+        "price": 383000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=874363"
+    },
+    {
+        "name": "[AMD] 라이젠5 라파엘 7600X (6코어/12스레드/4.7GHz/쿨러미포함/대리점정품/멀티팩) [1066050]",
+        "price": 309000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1066050"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 스케일러블 골드 6248R (캐스케이드레이크) 이그닉 [3년 A/S 벌크 국내 발송][1215470]",
+        "price": 2619000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1215470"
+    },
+    {
+        "name": "[AMD] 라이젠7 세잔 5700G (8코어/16스레드/3.8GHz/쿨러포함/대리점정품/멀티팩) [822474]",
+        "price": 263400,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=822474"
+    },
+    {
+        "name": "[INTEL] 코어 i9-14900F 정품박스 (랩터레이크 리프레시/2.0GHz/33MB/쿨러 포함) [1102701]",
+        "price": 845000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1102701"
+    },
+    {
+        "name": "[INTEL] 코어12세대 i3-12100F 정품박스 (엘더레이크 /3.30GHz/12MB/쿨러 포함) [867857]",
+        "price": 114000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=867857"
+    },
+    {
+        "name": "[INTEL] 코어12세대 i7-12700 벌크 (엘더레이크/2.1GHz/25MB/병행수입) 쿨러 포함[872247]",
+        "price": 390000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=872247"
+    },
+    {
+        "name": "[AMD] 라이젠5 피닉스 8400F (6코어/12스레드/4.20GHz/쿨러포함/대리점정품) 멀티팩 [1144891]",
+        "price": 199000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1144891"
+    },
+    {
+        "name": "[INTEL] 코어12세대 셀러론 G6900 벌크 (엘더레이크/3.4GHz/4MB/병행수입) 쿨러 미포함[870561]",
+        "price": 73500,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=870561"
+    },
+    {
+        "name": "[INTEL] 인텔® 제온® w5-2445 프로세서 Tray [1137508]",
+        "price": 1379000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1137508"
+    },
+    {
+        "name": "[INTEL] 코어12세대 i5-12500 벌크 (엘더레이크/3.0GHz/18MB/병행수입) 쿨러 미포함[870562]",
+        "price": 244000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=870562"
+    },
+    {
+        "name": "[INTEL] 코어12세대 i9-12900K 벌크 (엘더레이크 /3.20GHz/30MB/병행수입) 쿨러 미포함[1119227]",
+        "price": 516000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1119227"
+    },
+    {
+        "name": "[INTEL] 코어14세대 i5-14400F 벌크 (랩터레이크 리프레시/2.5GHz/20MB/병행수입) 동쿨러 포함[1108562]",
+        "price": 184000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1108562"
+    },
+    {
+        "name": "[INTEL] 코어13세대 I3-13100 벌크 (랩터레이크/3.4GHz/12MB/병행수입) 동쿨러 포함[981946]",
+        "price": 154000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=981946"
+    },
+    {
+        "name": "[INTEL] 코어13세대 i5-13500 벌크 (랩터레이크/2.5GHz/24MB/병행수입) 동쿨러 포함[981936]",
+        "price": 311000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=981936"
+    },
+    {
+        "name": "[INTEL] 인텔 코어 Ultra 5 프로세서 225F (애로우레이크/쿨러포함) [정품박스] [1203134]",
+        "price": 336000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1203134"
+    },
+    {
+        "name": "[INTEL] 코어11세대 i5-11600K 정품박스 (로켓레이크 /3.90GHz/12MB/쿨러 미포함) [772791]",
+        "price": 215000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=772791"
+    },
+    {
+        "name": "[INTEL] 셀러론 G5905 벌크 (코멧레이크/3.5GHz/4MB/병행수입) 동쿨러 포함[833209]",
+        "price": 53400,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=833209"
+    },
+    {
+        "name": "[INTEL] 코어 i7-14700K (랩터레이크 리프레시/3.4GHz/33MB/쿨러 미포함) [정품벌크][1172170]",
+        "price": 535000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1172170"
+    },
+    {
+        "name": "[INTEL] 코어13세대 i3-13100 (랩터레이크/3.4GHz/12MB) [정품벌크/쿨러미포함][981969]",
+        "price": 164000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=981969"
+    },
+    {
+        "name": "[INTEL] 코어12세대 i5-12500 벌크 (엘더레이크/3.0GHz/18MB/병행수입) 쿨러 포함[872238]",
+        "price": 255000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=872238"
+    },
+    {
+        "name": "[INTEL] 코어13세대 i5-13500 벌크 (랩터레이크/2.5GHz/24MB/병행수입) 쿨러 미포함[981975]",
+        "price": 294000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=981975"
+    },
+    {
+        "name": "[INTEL] 코어10세대 i5-10400F 벌크 (코멧레이크/2.90GHz/12MB/병행수입) 쿨러 미포함[673491]",
+        "price": 107500,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=673491"
+    },
+    {
+        "name": "[INTEL] 코어13세대 I5-13600K 벌크 쿨러 미포함 ( 랩터레이크/3.5GHz/24MB/병행수입) [963370]",
+        "price": 322000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=963370"
+    },
+    {
+        "name": "[AMD] 라이젠5 그래니트 9600 (6코어/12스레드/3.8GHz/대리점정품) [멀티팩/쿨러포함][1218344]",
+        "price": 327000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1218344"
+    },
+    {
+        "name": "[INTEL] 코어10세대 i5-10400F 벌크 (코멧레이크/2.90GHz/12MB/병행수입) 동쿨러 포함[832816]",
+        "price": 114000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=832816"
+    },
+    {
+        "name": "[INTEL] 코어13세대 i3-13100 (랩터레이크/3.4GHz/12MB) [정품박스/쿨러포함][979917]",
+        "price": 171000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=979917"
+    },
+    {
+        "name": "[INTEL] 코어9세대 i5-9400 벌크 쿨러미포함 (커피레이크 리프레시/3.60GHz/9MB/병행수입) [1119214]",
+        "price": 115000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1119214"
+    },
+    {
+        "name": "[INTEL] 코어12세대 셀러론 G6900 벌크 (엘더레이크/3.4GHz/4MB/병행수입) 쿨러 포함[872231]",
+        "price": 84000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=872231"
+    },
+    {
+        "name": "[INTEL] 코어 10세대 G5925 정품박스 (코멧레이크/3.60GHz/4MB/쿨러 포함) [1195028]",
+        "price": 65000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1195028"
+    },
+    {
+        "name": "[INTEL] 코어10세대 i3-10105 벌크 (코멧레이크 리프레시/3.7GHz/6MB/병행수입) 쿨러 미포함[1088522]",
+        "price": 123000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1088522"
+    },
+    {
+        "name": "[INTEL] 코어11세대 i9-11900F 정품박스 (로켓레이크 /2.50GHz/16MB/쿨러 포함) [1195316]",
+        "price": 359000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1195316"
+    },
+    {
+        "name": "[INTEL] 코어10세대 i5-10400F 정품박스 (코멧레이크 /2.90GHz/12MB/쿨러 포함) [675115]",
+        "price": 138000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=675115"
+    },
+    {
+        "name": "[INTEL] 코어13세대 i3-13100F (랩터레이크/3.4GHz/12MB) [정품벌크/쿨러미포함][981967]",
+        "price": 107000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=981967"
+    },
+    {
+        "name": "[INTEL] 인텔 코어 Ultra 7 프로세서 265K 벌크 (애로우 레이크/3.9GHz/30MB/쿨러미포함) [1186796]",
+        "price": 505000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1186796"
+    },
+    {
+        "name": "[INTEL] 코어13세대 i7-13700 벌크 (랩터레이크/2.1GHz/30MB/병행수입) 쿨러 포함[981957]",
+        "price": 477000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=981957"
+    },
+    {
+        "name": "[INTEL] 코어10세대 i3-10105 벌크 (코멧레이크 리프레시/3.7GHz/6MB/병행수입) 쿨러 포함[1088521]",
+        "price": 129000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1088521"
+    },
+    {
+        "name": "[INTEL] 코어14세대 i3-14100F 벌크 (랩터레이크 리프레시/3.5GHz/12MB/병행수입) 쿨러 미포함[1108540]",
+        "price": 106500,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1108540"
+    },
+    {
+        "name": "[INTEL] 코어10세대 i3-10105 벌크 (코멧레이크 리프레시/3.7GHz/6MB/병행수입) 동쿨러 포함[1088520]",
+        "price": 129900,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1088520"
+    },
+    {
+        "name": "[INTEL] 코어10세대 i3-10100F 정품박스 (코멧레이크 /3.60GHz/6MB/쿨러 포함) [722182]",
+        "price": 81000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=722182"
+    },
+    {
+        "name": "[INTEL] 코어9세대 i5-9500F 벌크 (커피레이크 리프레시/3.0GHz/9MB/병행수입) 쿨러 미포함[1119211]",
+        "price": 104940,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1119211"
+    },
+    {
+        "name": "[INTEL] 셀러론 G5905 벌크 (코멧레이크/3.5GHz/4MB/병행수입) 쿨러 미포함[718509]",
+        "price": 43000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=718509"
+    },
+    {
+        "name": "[INTEL] 코어13세대 I3-13100 벌크 (랩터레이크/3.4GHz/12MB/병행수입) 쿨러 미포함[981971]",
+        "price": 141000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=981971"
+    },
+    {
+        "name": "[INTEL] 코어 6세대 i5 6400 벌크  (스카이레이크/2.7GHz/6MB/병행수입) 동쿨러 포함[1088513]",
+        "price": 78100,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1088513"
+    },
+    {
+        "name": "[INTEL] [3년 A/S 벌크 국내 발송] 인텔 제온 스케일러블 실버 4510 (캐스케이드레이크) 이그닉 [1198712]",
+        "price": 889000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1198712"
+    },
+    {
+        "name": "[INTEL] [3년 A/S 벌크 국내 발송] 인텔 제온 스케일러블 실버 4510T (캐스케이드레이크) 이그닉 [1198711]",
+        "price": 999000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1198711"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Bronze 3508U Processor Tray [1141479]",
+        "price": 736000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141479"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® E-2374G Processor 8M Cache, 3.70 GHz Tray [1112697]",
+        "price": 659000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1112697"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Gold 5320 Processor 39M Cache, 2.20 GHz [1112701]",
+        "price": 3157000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1112701"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Gold 5403N Processor Tray [1141477]",
+        "price": 1249000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141477"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Gold 5411N Processor Tray [1141242]",
+        "price": 2449000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141242"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Gold 5412U Processor Tray [1141254]",
+        "price": 1949000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141254"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Gold 5415+ Processor Box [1141473]",
+        "price": 1899000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141473"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Gold 5415+ Processor Tray [1141257]",
+        "price": 1890000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141257"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Gold 5416S Processor Tray [1141238]",
+        "price": 1679000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141238"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Gold 5418N Processor Tray [1141243]",
+        "price": 2915000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141243"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Gold 5418Y Processor Box [1141472]",
+        "price": 2649000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141472"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Gold 5418Y Processor Tray [1141255]",
+        "price": 2590000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141255"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Gold 5420+ Processor Tray [1141253]",
+        "price": 3252000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141253"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Gold 5512U Processor Tray [1141482]",
+        "price": 2181000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141482"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Gold 5515+ Processor Tray [1141451]",
+        "price": 1950000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141451"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Gold 5520+ Processor Tray [1141450]",
+        "price": 2910000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141450"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Gold 6230 Processor 27.5M Cache, 2.10 GHz [1112714]",
+        "price": 3969000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1112714"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Gold 6330 Processor 42M Cache, 2.00 GHz [1112704]",
+        "price": 3799000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1112704"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Gold 6336Y Processor 36M Cache, 2.40 GHz [1112696]",
+        "price": 4099000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1112696"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Gold 6403N Processor Tray [1141231]",
+        "price": 3197000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141231"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Gold 6423N Processor Tray [1141232]",
+        "price": 3820000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141232"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Gold 6426Y Processor 37.5M Cache, 2.50 GHz Tray [1112694]",
+        "price": 2656000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1112694"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Gold 6430 Processor 60M Cache, 2.10 GHz Box [1117158]",
+        "price": 3799000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1117158"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Gold 6433N Processor Tray [1141234]",
+        "price": 4905000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141234"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Gold 6433NE Processor Tray [1141233]",
+        "price": 5349000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141233"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Gold 6443N Processor Tray [1141230]",
+        "price": 5697000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141230"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Gold 6530 Processor Box [1142236]",
+        "price": 3690000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1142236"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Gold 6530 Processor Tray [1141454]",
+        "price": 3815000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141454"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Gold 6534 Processor Tray [1141453]",
+        "price": 4969000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141453"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Gold 6538Y+ Processor Tray [1141449]",
+        "price": 5487000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141449"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Gold 6542Y Processor Tray [1141448]",
+        "price": 5099000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141448"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Gold 6544Y Processor Tray [1141446]",
+        "price": 6382000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141446"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Gold 6548N Processor Tray [1141481]",
+        "price": 6799000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141481"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Gold 6548Y+ Processor Tray [1141447]",
+        "price": 6555000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141447"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Gold 6554S Processor Tray [1141466]",
+        "price": 5522700,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141466"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Gold 6558Q Processor Tray [1141445]",
+        "price": 11097000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141445"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Platinum 8558 Processor Tray [1141456]",
+        "price": 7999000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141456"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Platinum 8558P Processor Tray [1141463]",
+        "price": 11993000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141463"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Platinum 8558U Processor Tray [1141455]",
+        "price": 6543000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141455"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Platinum 8562Y+ Processor Tray [1141452]",
+        "price": 10500000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141452"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Platinum 8568Y+ Processor Tray [1141457]",
+        "price": 11531000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141457"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Platinum 8570 Processor Tray [1141458]",
+        "price": 16945000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141458"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Platinum 8571N Processor Tray [1141462]",
+        "price": 12100000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141462"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Platinum 8580 Processor Tray [1141459]",
+        "price": 18790000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141459"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Platinum 8581V Processor Tray [1141464]",
+        "price": 12981500,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141464"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Platinum 8592+ Processor Tray [1141460]",
+        "price": 19999000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141460"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Platinum 8592V Processor Tray [1141465]",
+        "price": 19556000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141465"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Platinum 8593Q Processor Tray [1141461]",
+        "price": 21950000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141461"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Silver 4316 Processor 30M Cache, 2.30 GHz [1112706]",
+        "price": 1990000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1112706"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Silver 4416+ Processor 37.5M Cache, 2.00 GHz Tray [1112699]",
+        "price": 2095000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1112699"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Silver 4516Y+ Processor 45M Cache, 2.20 GHz Tray [1112691]",
+        "price": 2299000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1112691"
+    },
+    {
+        "name": "[AMD] 라이젠 스레드리퍼 7960X (스톰 픽)(24코어/48스레드/4.2GHz/쿨러미포함/대리점정품/Threadripper) 멀티팩 [1131423]",
+        "price": 2100000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1131423"
+    },
+    {
+        "name": "[AMD] 라이젠 스레드리퍼 7970X (스톰 픽)(32코어/64스레드/4.0GHz/쿨러미포함/대리점정품/Threadripper) [1092451]",
+        "price": 3790000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1092451"
+    },
+    {
+        "name": "[AMD] 라이젠 스레드리퍼 PRO 3955WX (캐슬 픽-W) (16코어/32스레드/3.9GHz/쿨러미포함/대리점정품/Threadripper) [769065]",
+        "price": 1339000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=769065"
+    },
+    {
+        "name": "[AMD] 라이젠 스레드리퍼 PRO 5955WX (샤갈 프로/Threadripper/16C 32T/4.0GHz/쿨러미포함) [1090835]",
+        "price": 1829700,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1090835"
+    },
+    {
+        "name": "[AMD] 라이젠 스레드리퍼 PRO 5995WX (샤갈 프로)(64코어/128스레드/2.7GHz/쿨러미포함/대리점정품/Threadripper) [945491]",
+        "price": 8299000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=945491"
+    },
+    {
+        "name": "[AMD] 라이젠 스레드리퍼 PRO 7955WX (스톰 픽) (16코어/32스레드/4.5GHz/쿨러미포함/대리점정품/Threadripper PRO) 멀티팩 [1195193]",
+        "price": 2700000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1195193"
+    },
+    {
+        "name": "[AMD] 라이젠 스레드리퍼 PRO 7975WX (스톰 픽) (32코어/64스레드/4.0GHz/쿨러미포함/대리점정품/멀티팩/Threadripper) [1100290]",
+        "price": 5900000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1100290"
+    },
+    {
+        "name": "[AMD] 라이젠 스레드리퍼 PRO 7985WX (스톰 픽) (64코어/128스레드/3.2GHz/쿨러미포함/대리점정품/멀티팩/Threadripper PRO) [1100289]",
+        "price": 10218000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1100289"
+    },
+    {
+        "name": "[AMD] 라이젠 스레드리퍼 PRO 7995WX (스톰 픽) (96코어/192스레드/2.5GHz/쿨러미포함/대리점정품/Threadripper PRO) [1100295]",
+        "price": 14650000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1100295"
+    },
+    {
+        "name": "[AMD] 라이젠7 라파엘 7700X (8코어/16스레드/4.5GHz/쿨러미포함/멀티팩) [1072865]",
+        "price": 425000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1072865"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 E-2468 Tray (랩터레이크) 이그닉 [3년 A/S 벌크 국내 발송][1202941]",
+        "price": 966000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1202941"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 스케일러블 골드 5218R (캐스케이드레이크) 이그닉 [3년 A/S 벌크 국내 발송][1215467]",
+        "price": 1239000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1215467"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 스케일러블 골드 5220R (캐스케이드레이크) 이그닉 [3년 A/S 벌크 국내 발송][1215468]",
+        "price": 1659000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1215468"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 스케일러블 골드 5418Y Tray (사파이어 래피드) 이그닉 [3년 A/S 벌크 국내 발송][1202940]",
+        "price": 2299000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1202940"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 스케일러블 골드 6230R (캐스케이드레이크) 이그닉 [3년 A/S 벌크 국내 발송][1215469]",
+        "price": 959000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1215469"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 스케일러블 골드 6346 Tray (아이스레이크) 이그닉 [3년 A/S 벌크 국내 발송][1202939]",
+        "price": 2529000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1202939"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 스케일러블 골드 6530 Tray (에메랄드 래피드) 이그닉 [3년 A/S 벌크 국내 발송][1202938]",
+        "price": 2599000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1202938"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 스케일러블 골드 6554S Tray (사파이어 래피드) 이그닉 [3년 A/S 벌크 국내 발송][1202937]",
+        "price": 4999000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1202937"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 스케일러블 골드 6558Q Tray (에메랄드 래피드) 이그닉 [3년 A/S 벌크 국내 발송][1202936]",
+        "price": 11999000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1202936"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 스케일러블 실버 4509Y Tray (사파이어 래피드) 이그닉 [3년 A/S 벌크 국내 발송][1202942]",
+        "price": 1199000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1202942"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 스케일러블 플래티넘 8468 Tray (사파이어 래피드) 이그닉 [3년 A/S 벌크 국내 발송][1202943]",
+        "price": 8599000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1202943"
+    },
+    {
+        "name": "[INTEL] 인텔 코어 Ultra 5 프로세서 225 (애로우 레이크/3.3GHz/20MB) 동쿨러포함 [1203793]",
+        "price": 357000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1203793"
+    },
+    {
+        "name": "[INTEL] 인텔 코어 Ultra 5 프로세서 225F (애로우 레이크/병행수입) 동쿨러포함[1203791]",
+        "price": 334000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1203791"
+    },
+    {
+        "name": "[INTEL] 인텔 코어 Ultra 5 프로세서 225F (애로우 레이크/병행수입) 쿨러미포함[1203792]",
+        "price": 322000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1203792"
+    },
+    {
+        "name": "[INTEL] 인텔 코어 Ultra 5 프로세서 245 (애로우 레이크/ 벌크) [동쿨러포함][1209694]",
+        "price": 423000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1209694"
+    },
+    {
+        "name": "[INTEL] 인텔 코어 Ultra 5 프로세서 245 (애로우 레이크/ 벌크) [쿨러미포함][1209695]",
+        "price": 410000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1209695"
+    },
+    {
+        "name": "[INTEL] 인텔 코어 Ultra 5 프로세서 245K (애로우 레이크/4.2GHz/26MB/쿨러미포함) [정품벌크][1186163]",
+        "price": 469000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1186163"
+    },
+    {
+        "name": "[INTEL] 인텔 코어 Ultra 5 프로세서 245KF 벌크 (애로우 레이크/4.2GHz/26MB/쿨러미포함) [1186797]",
+        "price": 390000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1186797"
+    },
+    {
+        "name": "[INTEL] 인텔® 제온® Bronze 3408U 프로세서 Box [1141476]",
+        "price": 690800,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141476"
+    },
+    {
+        "name": "[INTEL] 인텔® 제온® Bronze 3408U 프로세서 Tray [1141258]",
+        "price": 703000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141258"
+    },
+    {
+        "name": "[INTEL] 인텔® 제온® CPU 맥스 9470 프로세서 Tray [1141470]",
+        "price": 19143000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141470"
+    },
+    {
+        "name": "[INTEL] 인텔® 제온® CPU 맥스 9480 프로세서 Tray [1141471]",
+        "price": 21437000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141471"
+    },
+    {
+        "name": "[INTEL] 인텔® 제온® Gold 6414U 프로세서 Tray [1141283]",
+        "price": 3793000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141283"
+    },
+    {
+        "name": "[INTEL] 인텔® 제온® Gold 6416H 프로세서 Tray [1141248]",
+        "price": 2384000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141248"
+    },
+    {
+        "name": "[INTEL] 인텔® 제온® Gold 6428N 프로세서 Tray [1141241]",
+        "price": 5286000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141241"
+    },
+    {
+        "name": "[INTEL] 인텔® 제온® Gold 6434 프로세서 Tray [1141256]",
+        "price": 4305000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141256"
+    },
+    {
+        "name": "[INTEL] 인텔® 제온® Gold 6434H 프로세서 Tray [1141249]",
+        "price": 5070000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141249"
+    },
+    {
+        "name": "[INTEL] 인텔® 제온® Gold 6438N 프로세서 Tray [1141239]",
+        "price": 5536000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141239"
+    },
+    {
+        "name": "[INTEL] 인텔® 제온® Gold 6438Y+ 프로세서 Tray [1141252]",
+        "price": 5187000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141252"
+    },
+    {
+        "name": "[INTEL] 인텔® 제온® Gold 6448Y 프로세서 Tray [1141251]",
+        "price": 5918000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141251"
+    },
+    {
+        "name": "[INTEL] 인텔® 제온® Gold 6454S 프로세서 Tray [1141278]",
+        "price": 5213000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141278"
+    },
+    {
+        "name": "[INTEL] 인텔® 제온® Gold 6458Q 프로세서 Tray [1141244]",
+        "price": 10597000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141244"
+    },
+    {
+        "name": "[INTEL] 인텔® 제온® Platinum 8444H 프로세서 Tray [1141269]",
+        "price": 6993000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141269"
+    },
+    {
+        "name": "[INTEL] 인텔® 제온® Platinum 8450H 프로세서 Tray [1141266]",
+        "price": 7776000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141266"
+    },
+    {
+        "name": "[INTEL] 인텔® 제온® Platinum 8452Y 프로세서 Tray [1141265]",
+        "price": 6599000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141265"
+    },
+    {
+        "name": "[INTEL] 인텔® 제온® Platinum 8454H 프로세서 Tray [1141274]",
+        "price": 10801000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141274"
+    },
+    {
+        "name": "[INTEL] 인텔® 제온® Platinum 8458P 프로세서 Tray [1141275]",
+        "price": 11163000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141275"
+    },
+    {
+        "name": "[INTEL] 인텔® 제온® Platinum 8460H 프로세서 Tray [1141270]",
+        "price": 17687000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141270"
+    },
+    {
+        "name": "[INTEL] 인텔® 제온® Platinum 8460Y+ 프로세서 Tray [1141279]",
+        "price": 9179000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141279"
+    },
+    {
+        "name": "[INTEL] 인텔® 제온® Platinum 8461V 프로세서 Tray [1141276]",
+        "price": 7417000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141276"
+    },
+    {
+        "name": "[INTEL] 인텔® 제온® Platinum 8462Y+ 프로세서 Tray [1141250]",
+        "price": 9819000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141250"
+    },
+    {
+        "name": "[INTEL] 인텔® 제온® Platinum 8468 프로세서 Tray [1141280]",
+        "price": 11915000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141280"
+    },
+    {
+        "name": "[INTEL] 인텔® 제온® Platinum 8468V 프로세서 Tray [1141277]",
+        "price": 11761000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1141277"
+    },
+    {
+        "name": "[INTEL] 인텔® 제온® w3-2423 프로세서 Tray [1137505]",
+        "price": 591000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1137505"
+    },
+    {
+        "name": "[INTEL] 인텔® 제온® w3-2425 프로세서 Tray [1137506]",
+        "price": 891000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1137506"
+    },
+    {
+        "name": "[INTEL] 인텔® 제온® w3-2435 프로세서 Tray [1137507]",
+        "price": 1093000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1137507"
+    },
+    {
+        "name": "[INTEL] 인텔® 제온® w5-2455X 프로세서 Box [1137526]",
+        "price": 1725000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1137526"
+    },
+    {
+        "name": "[INTEL] 인텔® 제온® w5-2455X 프로세서 Tray [1137509]",
+        "price": 1708000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1137509"
+    },
+    {
+        "name": "[INTEL] 인텔® 제온® w5-2465X 프로세서 Box [1137524]",
+        "price": 2302000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1137524"
+    },
+    {
+        "name": "[INTEL] 인텔® 제온® w5-2465X 프로세서 Tray [1137510]",
+        "price": 2294000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1137510"
+    },
+    {
+        "name": "[INTEL] 인텔® 제온® w5-3425 프로세서 Tray [1137513]",
+        "price": 1964000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1137513"
+    },
+    {
+        "name": "[INTEL] 인텔® 제온® w5-3435X 프로세서 Tray [1137514]",
+        "price": 2625000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1137514"
+    },
+    {
+        "name": "[INTEL] 인텔® 제온® w7-2475X 프로세서 Tray [1137511]",
+        "price": 2941000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1137511"
+    },
+    {
+        "name": "[INTEL] 인텔® 제온® w7-2495X 프로세서 Box [1137523]",
+        "price": 3616000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1137523"
+    },
+    {
+        "name": "[INTEL] 인텔® 제온® w7-2495X 프로세서 Tray [1137512]",
+        "price": 3535400,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1137512"
+    },
+    {
+        "name": "[INTEL] 인텔® 제온® w7-3445 프로세서 Tray [1137515]",
+        "price": 3228500,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1137515"
+    },
+    {
+        "name": "[INTEL] 인텔® 제온® w9-3475X 프로세서 Tray [1137518]",
+        "price": 6325000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1137518"
+    },
+    {
+        "name": "[INTEL] 인텔® 제온® w9-3495X 프로세서 Tray [1137520]",
+        "price": 9727000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1137520"
+    },
+    {
+        "name": "[INTEL] 제온 스케일러블 골드 5218 벌크 쿨러미포함 (캐스케이드레이크/2.30GHz/22MB/병행수입) [1004649]",
+        "price": 1375000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1004649"
+    },
+    {
+        "name": "[INTEL] 제온 스케일러블 골드 5218R 벌크 쿨러미포함 (캐스케이드레이크/2.10GHz/11MB/병행수입) [1004648]",
+        "price": 1419000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1004648"
+    },
+    {
+        "name": "[INTEL] 제온 스케일러블 골드 6210U 벌크 쿨러미포함 (캐스케이드레이크/2.5GHz/27.5MB/병행수입) [1004995]",
+        "price": 2051500,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1004995"
+    },
+    {
+        "name": "[INTEL] 제온 스케일러블 골드 6212U 벌크 쿨러미포함 (캐스케이드레이크/2.4GHz/35.75MB/병행수입) [1004994]",
+        "price": 2695000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1004994"
+    },
+    {
+        "name": "[INTEL] 제온 스케일러블 골드 6230N 벌크 쿨러미포함 (캐스케이드레이크/2.3GHz/27.5MB/병행수입) [1004992]",
+        "price": 2145000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1004992"
+    },
+    {
+        "name": "[INTEL] 제온 스케일러블 골드 6230R 벌크 쿨러미포함 (캐스케이드레이크/2.1GHz/35.75MB/병행수입) [1004993]",
+        "price": 2250000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1004993"
+    },
+    {
+        "name": "[INTEL] 제온 스케일러블 골드 6246R 벌크 쿨러미포함 (캐스케이드레이크/3.4GHz/35.75MB/병행수입) [1004990]",
+        "price": 3674000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1004990"
+    },
+    {
+        "name": "[INTEL] 제온 스케일러블 골드 6252N 벌크 쿨러미포함 (캐스케이드레이크/2.3GHz/35.75MB/병행수입) [1004991]",
+        "price": 2904000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1004991"
+    },
+    {
+        "name": "[INTEL] 코어 6세대 i5 6400 벌크  (스카이레이크/2.7GHz/6MB/병행수입) 쿨러 미포함[1088515]",
+        "price": 73000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1088515"
+    },
+    {
+        "name": "[INTEL] 코어 6세대 i5 6400 벌크  (스카이레이크/2.7GHz/6MB/병행수입) 쿨러 포함[1088514]",
+        "price": 78100,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1088514"
+    },
+    {
+        "name": "[INTEL] 코어 i5-14500 (랩터레이크 리프레시/2.6GHz/24MB) [정품벌크/쿨러미포함][1108510]",
+        "price": 369900,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1108510"
+    },
+    {
+        "name": "[INTEL] 코어11세대 i9-11900K 벌크 (로켓레이크/3.5GHz/16MB/병행수입) 쿨러 포함[1119202]",
+        "price": 423000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1119202"
+    },
+    {
+        "name": "[INTEL] 코어12세대 i5-12500 벌크 (엘더레이크/3.0GHz/18MB/병행수입) 동쿨러 포함[872241]",
+        "price": 257000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=872241"
+    },
+    {
+        "name": "[INTEL] 코어12세대 i5-12500 정품벌크 (엘더레이크 /3.00GHz/18MB/쿨러 미포함) [958933]",
+        "price": 269000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=958933"
+    },
+    {
+        "name": "[INTEL] 코어12세대 i7-12700 (엘더레이크/2.10GHz/25MB) [정품벌크/쿨러미포함][968607]",
+        "price": 407000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=968607"
+    },
+    {
+        "name": "[INTEL] 코어13세대 i5-13600 정품벌크 (랩터레이크/2.70GHz/24MB/쿨러 미포함) [981903]",
+        "price": 407000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=981903"
+    },
+    {
+        "name": "[INTEL] 코어13세대 I9-13900F 벌크 (랩터레이크/2.0GHz/36MB/병행수입) 동쿨러 포함[981937]",
+        "price": 799000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=981937"
+    },
+    {
+        "name": "[INTEL] 코어13세대 I9-13900F 벌크 (랩터레이크/2.0GHz/36MB/병행수입) 쿨러 미포함[981953]",
+        "price": 799000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=981953"
+    },
+    {
+        "name": "[INTEL] 코어14세대 i3-14100F 벌크 (랩터레이크 리프레시/3.5GHz/12MB/병행수입) 동쿨러 포함[1108541]",
+        "price": 125800,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1108541"
+    },
+    {
+        "name": "[INTEL] 코어14세대 i9-14900 벌크 쿨러 미포함 (랩터레이크 리프레시/2.0GHz/36MB/병행수입) [1108548]",
+        "price": 718000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1108548"
+    },
+    {
+        "name": "[INTEL] 코어9세대 i3-9100F 벌크 (커피레이크 리프레시/3.60GHz/6MB/병행수입) 동쿨러 포함[1119215]",
+        "price": 102000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1119215"
+    },
+    {
+        "name": "[INTEL] 코어9세대 i3-9100F 벌크 (커피레이크 리프레시/3.60GHz/6MB/병행수입) 쿨러 미포함[1119217]",
+        "price": 93170,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1119217"
+    },
+    {
+        "name": "[INTEL] 코어9세대 i5-9500F 벌크 (커피레이크 리프레시/3.0GHz/9MB/병행수입) 동쿨러 포함[1119209]",
+        "price": 112420,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1119209"
+    },
+    {
+        "name": "[INTEL] 코어9세대 i5-9500F 벌크 (커피레이크 리프레시/3.0GHz/9MB/병행수입) 쿨러 포함[1119210]",
+        "price": 110240,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1119210"
+    },
+    {
+        "name": "[INTEL] 코어12세대 i7-12700K (엘더레이크/2.7GHz/12MB) [정품박스/쿨러미포함][849525]",
+        "price": 419900,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=849525"
+    },
+    {
+        "name": "[INTEL] 코어11세대 i7-11700F 정품박스 (로켓레이크 /2.50GHz/16MB/쿨러 포함) [783036]",
+        "price": 329000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=783036"
+    },
+    {
+        "name": "[INTEL] 인텔 코어 Ultra 5 프로세서 245K (애로우 레이크/4.2GHz/26MB/쿨러미포함) [정품박스][1183680]",
+        "price": 459000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1183680"
+    },
+    {
+        "name": "[INTEL] 인텔 코어 Ultra 5 프로세서 245KF (애로우 레이크/4.2GHz/26MB/쿨러미포함) [정품박스][1183679]",
+        "price": 433000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1183679"
+    },
+    {
+        "name": "[AMD] 라이젠9 그래니트 9950X3D (16코어/32스레드/4.3GHz/쿨러미포함) [정품박스] [1220481]",
+        "price": 1188000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1220481"
+    },
+    {
+        "name": "[AMD] 라이젠9 그래니트 9900X (12코어/24스레드/4.4GHz/대리점정품/쿨러미포함) [정품박스][1164050]",
+        "price": 695000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1164050"
+    },
+    {
+        "name": "[AMD] 라이젠9 그래니트 9950X3D (16코어/32스레드/4.3GHz/쿨러미포함) [멀티팩] [1220480]",
+        "price": 1168000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1220480"
+    },
+    {
+        "name": "[INTEL] 코어 i5-14400F (랩터레이크 리프레시/2.5GHz/20MB) [정품벌크/쿨러미포함][1112689]",
+        "price": 179000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1112689"
+    },
+    {
+        "name": "[AMD] 라이젠5 세잔 5500GT (6코어/12스레드/3.6GHz/쿨러포함/대리점정품) 멀티팩 [1146524]",
+        "price": 158400,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1146524"
+    },
+    {
+        "name": "[AMD] 라이젠 스레드리퍼 3970X (32코어/64스레드/3.7GHz/쿨러미포함/대리점정품/Threadripper) [621767]",
+        "price": 2552500,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=621767"
+    },
+    {
+        "name": "[AMD] 라이젠 스레드리퍼 7980X (스톰 픽)(64코어/128스레드/3.2GHz/쿨러미포함/대리점정품/Threadripper) [1092450]",
+        "price": 7759000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1092450"
+    },
+    {
+        "name": "[AMD] 애슬론 3000G (2코어/4스레드/3.5GHz/쿨러포함/대리점정품/멀티팩) [1048925]",
+        "price": 49000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1048925"
+    },
+    {
+        "name": "[INTEL] 코어12세대 i5-12400F (엘더레이크/2.50GHz/18MB) [정품벌크/쿨러미포함][961424]",
+        "price": 144000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=961424"
+    },
+    {
+        "name": "[AMD] 라이젠9 그래니트 9900X (12코어/24스레드/4.4GHz/대리점정품/쿨러미포함) [멀티팩] [1164049]",
+        "price": 695000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1164049"
+    },
+    {
+        "name": "[INTEL] 제온 스케일러블 실버 4416+ 벌크 쿨러미포함 (2.0GHz/37.5MB/병행수입) [1019362]",
+        "price": 2155000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1019362"
+    },
+    {
+        "name": "[INTEL] 제온 스케일러블 골드 6226R 벌크 쿨러미포함 (캐스케이드레이크/2.90GHz/22MB/병행수입) [997911]",
+        "price": 1790000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=997911"
+    },
+    {
+        "name": "[INTEL] 인텔 코어 Ultra 7 프로세서 265K 정품벌크 (애로우 레이크/3.9GHz/30MB/쿨러미포함) [1186164]",
+        "price": 541000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1186164"
+    },
+    {
+        "name": "[INTEL] 제온 스케일러블 골드 6242 벌크 쿨러미포함 (캐스케이드레이크/2.80GHz/22MB/병행수입) [997905]",
+        "price": 3204300,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=997905"
+    },
+    {
+        "name": "[INTEL] 코어14세대 i9-14900KS 정품박스 (랩터레이크 리프레시/3.2GHz/36MB/쿨러 미포함) [1123397]",
+        "price": 1050000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1123397"
+    },
+    {
+        "name": "[INTEL] 코어9세대 i7-9700 벌크 (커피레이크 리프레시/3.0GHz/12MB/병행수입) 쿨러 포함[580767]",
+        "price": 399000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=580767"
+    },
+    {
+        "name": "[INTEL] 코어13세대 I5-13600KF 벌크 쿨러 미포함 (랩터레이크/3.5GHz/24MB/병행수입) [963369]",
+        "price": 271000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=963369"
+    },
+    {
+        "name": "[INTEL] 제온 스케일러블 실버 4410T 벌크 쿨러미포함 [1019360]",
+        "price": 1090000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1019360"
+    },
+    {
+        "name": "[AMD] 라이젠 스레드리퍼 7960X (스톰 픽)(24코어/48스레드/4.2GHz/쿨러미포함/대리점정품/Threadripper) [1092452]",
+        "price": 2276000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1092452"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 스케일러블 골드 6330 (아이스레이크) 이그닉 [3년 A/S 벌크 국내 발송][1215458]",
+        "price": 1499000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1215458"
+    },
+    {
+        "name": "[AMD] 라이젠9 라파엘 7900 (12코어/24스레드/3.7GHz/프리즘쿨러포함/대리점정품) [983367]",
+        "price": 515000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=983367"
+    },
+    {
+        "name": "[INTEL] 코어13세대 i5-13400(랩터레이크/2.5GHz/20MB) [정품벌크/쿨러미포함][981966]",
+        "price": 233000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=981966"
+    },
+    {
+        "name": "[INTEL] 제온 스케일러블 실버 4215R 벌크 쿨러미포함 (캐스케이드레이크/3.20GHz/11MB/병행수입) [1004291]",
+        "price": 1299000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1004291"
+    },
+    {
+        "name": "[INTEL] 인텔 코어 Ultra 5 프로세서 235 (애로우 레이크/ 벌크) [쿨러미포함][1203790]",
+        "price": 385000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1203790"
+    },
+    {
+        "name": "[INTEL] 코어12세대 i5-12600K 벌크 (엘더레이크/3.7GHz/20MB/병행수입) 쿨러 미포함[893976]",
+        "price": 262000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=893976"
+    },
+    {
+        "name": "[INTEL] 코어13세대 i3-13100F (랩터레이크/3.4GHz/12MB) [정품박스/쿨러포함][979920]",
+        "price": 125000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=979920"
+    },
+    {
+        "name": "[INTEL] 코어9세대 i7-9700 벌크 (커피레이크 리프레시/3.0GHz/12MB/병행수입) 동쿨러 포함[833243]",
+        "price": 399000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=833243"
+    },
+    {
+        "name": "[INTEL] 코어12세대 i9-12900K 정품박스 (엘더레이크 /3.20GHz/30MB/쿨러 미포함) [849523]",
+        "price": 599000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=849523"
+    },
+    {
+        "name": "[INTEL] 펜티엄 골드 G7400 정품박스 (엘더레이크/3.7GHz/6MB/쿨러 포함) [868336]",
+        "price": 139000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=868336"
+    },
+    {
+        "name": "[INTEL] 코어12세대 i5-12600K (엘더레이크 /3.70GHz/20MB) [정품박스/쿨러미포함][849527]",
+        "price": 269000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=849527"
+    },
+    {
+        "name": "[INTEL] 코어9세대 i3-9100F 벌크 (커피레이크 리프레시/3.60GHz/6MB/병행수입) 쿨러 포함[1119216]",
+        "price": 67200,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1119216"
+    },
+    {
+        "name": "[INTEL] [3년 A/S 벌크 국내 발송] 인텔 제온 CPU 맥스 9462 이그닉 [1198713]",
+        "price": 8996000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1198713"
+    },
+    {
+        "name": "[INTEL] [3년 A/S 벌크 국내 발송] 인텔 제온 스케일러블 골드 6434 (사파이어 래피드) 이그닉 [1198714]",
+        "price": 3719000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1198714"
+    },
+    {
+        "name": "[INTEL] [3년 A/S 벌크 국내 발송] 인텔 제온 스케일러블 실버 4208 (캐스케이드레이크) 이그닉 [1198717]",
+        "price": 539000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1198717"
+    },
+    {
+        "name": "[INTEL] [3년 A/S 벌크 국내 발송] 인텔 제온 스케일러블 실버 4210 (캐스케이드레이크) 이그닉 [1198716]",
+        "price": 579000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1198716"
+    },
+    {
+        "name": "[INTEL] [3년 A/S 벌크 국내 발송] 인텔 제온 스케일러블 실버 4215 (캐스케이드레이크) 이그닉 [1198715]",
+        "price": 1099000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1198715"
+    },
+    {
+        "name": "[INTEL] [3년 A/S 벌크 국내 발송] 인텔 제온 스케일러블 실버 4314 (캐스케이드레이크) 이그닉 [1198710]",
+        "price": 1169000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1198710"
+    },
+    {
+        "name": "[AMD] EPYC™ (Eight-Core) Model 7232P (8코어/16스레드/3.1GHz/대리점정품) [618390]",
+        "price": 840000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=618390"
+    },
+    {
+        "name": "[AMD] EPYC™ (Eight-Core) Model 7262 (8코어/16스레드/3.2GHz/대리점정품) [618391]",
+        "price": 1070000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=618391"
+    },
+    {
+        "name": "[AMD] EPYC™ (Forty-Eight-Core) Model 7642 (48코어/96스레드/2.3GHz/대리점정품) [618383]",
+        "price": 8720000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=618383"
+    },
+    {
+        "name": "[AMD] EPYC™ (Sixteen-Core) Model 7302 (16코어/32스레드/3.0GHz/대리점정품) [618387]",
+        "price": 1830000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=618387"
+    },
+    {
+        "name": "[AMD] EPYC™ (Sixty-Four-Core) Model 7742 (64코어/128스레드/2.25GHz/대리점정품) [618382]",
+        "price": 12800000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=618382"
+    },
+    {
+        "name": "[AMD] EPYC™ (Thirty-two-Core) Model 7452 (32코어/64스레드/2.35GHz/대리점정품) [618385]",
+        "price": 3320000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=618385"
+    },
+    {
+        "name": "[AMD] EPYC™ (Thirty-two-Core) Model 7542 (32코어/64스레드/2.9GHz/대리점정품) [618384]",
+        "price": 5880000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=618384"
+    },
+    {
+        "name": "[AMD] EPYC™ (Twenty-four Core) Model 7352 (24코어/48스레드/2.3GHz/대리점정품) [618386]",
+        "price": 1800000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=618386"
+    },
+    {
+        "name": "[AMD] EPYC™ Model 9965 (192코어/384스레드/2.25GHz/대리점정품/벌크) [1191767]",
+        "price": 18560000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1191767"
+    },
+    {
+        "name": "[INTEL] Intel® Xeon® Silver 4510 Processor 30M Cache, 2.40 GHz Tray [1116939]",
+        "price": 992000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1116939"
+    },
+    {
+        "name": "[AMD] 라이젠 스레드리퍼 Threadripper PRO 5995 WX 정품박스 (샤갈 프로) (64코어/128스레드/2.7GHz) [1076209]",
+        "price": 9200000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1076209"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 E-2244G 프로세서 Tray 이그닉 [3년 A/S 벌크 국내 발송][1193012]",
+        "price": 529000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1193012"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 E-2334 프로세서 Tray 이그닉 [3년 A/S 벌크 국내 발송][1193008]",
+        "price": 529000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1193008"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 E-2374G 프로세서 Tray 이그닉 [3년 A/S 벌크 국내 발송][1193010]",
+        "price": 611000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1193010"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 W 프로세서 w3-2435 Tray (사파이어 래피드) 이그닉 [3년 A/S 벌크 국내 발송][1206573]",
+        "price": 1079000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1206573"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 W 프로세서 w5-2445 Tray (사파이어 래피드) 이그닉 [3년 A/S 벌크 국내 발송][1206572]",
+        "price": 1359000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1206572"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 W 프로세서 w5-2455X Tray (사파이어 래피드) 이그닉 [3년 A/S 벌크 국내 발송][1206571]",
+        "price": 1599000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1206571"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 W 프로세서 w7-2475X Tray (사파이어 래피드) 이그닉 [3년 A/S 벌크 국내 발송][1206568]",
+        "price": 2829000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1206568"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 W 프로세서 w7-2495X Tray (사파이어 래피드) 이그닉 [3년 A/S 벌크 국내 발송][1206569]",
+        "price": 3399000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1206569"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 W 프로세서 w7-3445 Tray (사파이어 래피드) 이그닉 [3년 A/S 벌크 국내 발송][1206570]",
+        "price": 3099000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1206570"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 W 프로세서 w9-3475X Tray (사파이어 래피드) 이그닉 [3년 A/S 벌크 국내 발송][1206567]",
+        "price": 6079000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1206567"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 w5-2465X 프로세서 Tray 이그닉 [3년 A/S 벌크 국내 발송][1193014]",
+        "price": 2269000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1193014"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 w5-3425 프로세서 Tray 이그닉 [3년 A/S 벌크 국내 발송][1193002]",
+        "price": 1919000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1193002"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 w5-3435X 프로세서 Tray 이그닉 [3년 A/S 벌크 국내 발송][1193013]",
+        "price": 2529000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1193013"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 w7-3465X 프로세서 Tray 이그닉 [3년 A/S 벌크 국내 발송][1193011]",
+        "price": 4929000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1193011"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 w9-3495X Tray (사파이어 래피드) 이그닉 [3년 A/S 벌크 국내 발송][1202944]",
+        "price": 11149000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1202944"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 스케일러블 골드 5218 (캐스케이드레이크) 이그닉 [3년 A/S 벌크 국내 발송][1215466]",
+        "price": 979000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1215466"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 스케일러블 골드 5318Y (아이스레이크) 이그닉 [3년 A/S 벌크 국내 발송][1215457]",
+        "price": 2349000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1215457"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 스케일러블 골드 5416S (사파이어 래피드) 이그닉 [3년 A/S 벌크 국내 발송][1215462]",
+        "price": 1469000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1215462"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 스케일러블 골드 6226R 프로세서 Tray 이그닉 [3년 A/S 벌크 국내 발송][1193009]",
+        "price": 1699000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1193009"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 스케일러블 골드 6330H (쿠퍼레이크) 이그닉 [3년 A/S 벌크 국내 발송][1215459]",
+        "price": 1999000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1215459"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 스케일러블 골드 6348 (아이스레이크) 이그닉 [3년 A/S 벌크 국내 발송][1215460]",
+        "price": 3049000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1215460"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 스케일러블 골드 6354 (아이스레이크) 이그닉 [3년 A/S 벌크 국내 발송][1215461]",
+        "price": 3269000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1215461"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 스케일러블 골드 6442Y 프로세서 Tray 이그닉 [3년 A/S 벌크 국내 발송][1193006]",
+        "price": 3929000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1193006"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 스케일러블 골드 6444Y (사파이어 래피드) 이그닉 [3년 A/S 벌크 국내 발송][1215463]",
+        "price": 4449000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1215463"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 스케일러블 골드 6526Y 프로세서 Tray 이그닉 [3년 A/S 벌크 국내 발송][1193016]",
+        "price": 2449000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1193016"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 스케일러블 실버 4210R  프로세서 Tray 이그닉 [3년 A/S 벌크 국내 발송][1193003]",
+        "price": 622000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1193003"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 스케일러블 실버 4214R (캐스케이드레이크) 이그닉 [3년 A/S 벌크 국내 발송][1215464]",
+        "price": 769000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1215464"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 스케일러블 실버 4215R (캐스케이드레이크) 이그닉 [3년 A/S 벌크 국내 발송][1215465]",
+        "price": 1189000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1215465"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 스케일러블 실버 4216 프로세서 Tray 이그닉 [3년 A/S 벌크 국내 발송][1193007]",
+        "price": 1199000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1193007"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 스케일러블 실버 4310 (아이스레이크) 이그닉 [3년 A/S 벌크 국내 발송][1215455]",
+        "price": 779000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1215455"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 스케일러블 실버 4310T Tray (아이스레이크) 이그닉 [3년 A/S 벌크 국내 발송][1202945]",
+        "price": 1199000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1202945"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 스케일러블 실버 4316 (아이스레이크) 이그닉 [3년 A/S 벌크 국내 발송][1215456]",
+        "price": 1649000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1215456"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 스케일러블 실버 4410T 프로세서 Tray 이그닉 [3년 A/S 벌크 국내 발송][1193004]",
+        "price": 1049000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1193004"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 스케일러블 실버 4410Y 프로세서 Tray 이그닉 [3년 A/S 벌크 국내 발송][1193005]",
+        "price": 719000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1193005"
+    },
+    {
+        "name": "[INTEL] 인텔 제온 스케일러블 플래티넘 8568Y+ 프로세서 Tray 이그닉 [3년 A/S 벌크 국내 발송][1193015]",
+        "price": 9855000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1193015"
+    },
+    {
+        "name": "[INTEL] 인텔 코어 Ultra 5 프로세서 235 (애로우 레이크/ 벌크) [동쿨러포함][1203789]",
+        "price": 393000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1203789"
+    },
+    {
+        "name": "[INTEL] 인텔® 제온® w5-3435X 프로세서 Box [1137522]",
+        "price": 2643000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1137522"
+    },
+    {
+        "name": "[INTEL] 제온 스케일러블 골드 5215 벌크 쿨러미포함 (캐스케이드레이크/2.50GHz/13.75MB/병행수입) [1004290]",
+        "price": 1732500,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1004290"
+    },
+    {
+        "name": "[INTEL] 제온 스케일러블 골드 5217 벌크 쿨러미포함 (캐스케이드레이크/3.00GHz/11MB/병행수입) [1004289]",
+        "price": 2101000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1004289"
+    },
+    {
+        "name": "[INTEL] 제온 스케일러블 골드 5220 벌크 쿨러미포함 (캐스케이드레이크/2.20GHz/24.75MB/병행수입) [997884]",
+        "price": 1998000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=997884"
+    },
+    {
+        "name": "[INTEL] 제온 스케일러블 골드 5220R 벌크 쿨러미포함 (캐스케이드레이크/2.20GHz/35.75MB/병행수입) [997883]",
+        "price": 1970000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=997883"
+    },
+    {
+        "name": "[INTEL] 제온 스케일러블 골드 5317 벌크 쿨러미포함 (아이스레이크/3.0GHz/18MB/병행수입) [1004288]",
+        "price": 1485000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1004288"
+    },
+    {
+        "name": "[INTEL] 제온 스케일러블 골드 5320 벌크 쿨러미포함 (캐스케이드레이크/2.20GHz/39MB/병행수입) [1004647]",
+        "price": 2268000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1004647"
+    },
+    {
+        "name": "[INTEL] 제온 스케일러블 골드 6208U 벌크 쿨러미포함 (캐스케이드레이크/2.90GHz/22MB/병행수입) [1004641]",
+        "price": 1859000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1004641"
+    },
+    {
+        "name": "[INTEL] 제온 스케일러블 골드 6230 벌크 쿨러미포함 (캐스케이드레이크/2.10GHz/24.75MB/병행수입) [997910]",
+        "price": 1790000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=997910"
+    },
+    {
+        "name": "[INTEL] 제온 스케일러블 골드 6234 벌크 쿨러미포함 (캐스케이드레이크/3.30GHz/24.75MB/병행수입) [997909]",
+        "price": 3116300,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=997909"
+    },
+    {
+        "name": "[INTEL] 제온 스케일러블 골드 6238R 벌크 쿨러미포함 (캐스케이드레이크/2.20GHz/38.5MB/병행수입) [997908]",
+        "price": 3238400,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=997908"
+    },
+    {
+        "name": "[INTEL] 제온 스케일러블 골드 6240R 벌크 쿨러미포함 (캐스케이드레이크/2.40GHz/35.75MB/병행수입) [997907]",
+        "price": 2689000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=997907"
+    },
+    {
+        "name": "[INTEL] 제온 스케일러블 골드 6242R 벌크 쿨러미포함 (캐스케이드레이크/3.1GHz/35.75MB/병행수입) [1004988]",
+        "price": 2990000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1004988"
+    },
+    {
+        "name": "[INTEL] 제온 스케일러블 골드 6244 벌크 쿨러미포함 (캐스케이드레이크/3.6GHz/24.75MB/병행수입) [1004646]",
+        "price": 3685000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1004646"
+    },
+    {
+        "name": "[INTEL] 제온 스케일러블 골드 6246 벌크 쿨러미포함 (캐스케이드레이크/3.3GHz/24.75MB/병행수입) [1004645]",
+        "price": 3655300,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1004645"
+    },
+    {
+        "name": "[INTEL] 제온 스케일러블 골드 6250 벌크 쿨러미포함 (캐스케이드레이크/3.9GHz/35.75MB/병행수입) [1004644]",
+        "price": 4829000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1004644"
+    },
+    {
+        "name": "[INTEL] 제온 스케일러블 골드 6254 벌크 쿨러미포함 (캐스케이드레이크/3.1GHz/24.75MB/병행수입) [1004643]",
+        "price": 3773000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1004643"
+    },
+    {
+        "name": "[INTEL] 제온 스케일러블 골드 6256 벌크 쿨러미포함 (캐스케이드레이크/3.6GHz/33MB/병행수입) [1004642]",
+        "price": 5335000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1004642"
+    },
+    {
+        "name": "[INTEL] 제온 스케일러블 브론즈 3204 벌크 쿨러미포함 (캐스케이드레이크/1.90GHz/8.25MB/병행수입) [1004293]",
+        "price": 638000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1004293"
+    },
+    {
+        "name": "[INTEL] 제온 스케일러블 실버 4208 벌크 쿨러미포함 (캐스케이드레이크/2.10GHz/11MB/병행수입) [997893]",
+        "price": 590000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=997893"
+    },
+    {
+        "name": "[INTEL] 제온 스케일러블 실버 4210 벌크 쿨러미포함 (캐스케이드레이크/2.20GHz/13.75MB/병행수입) [997892]",
+        "price": 634900,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=997892"
+    },
+    {
+        "name": "[INTEL] 제온 스케일러블 실버 4210R 벌크 쿨러미포함 (캐스케이드레이크/2.40GHz/13.75MB/병행수입) [997891]",
+        "price": 679000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=997891"
+    },
+    {
+        "name": "[INTEL] 제온 스케일러블 실버 4214 벌크 쿨러미포함 (캐스케이드레이크/2.20GHz/16.5MB/병행수입) [997890]",
+        "price": 864600,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=997890"
+    },
+    {
+        "name": "[INTEL] 제온 스케일러블 실버 4214R 벌크 쿨러미포함 (캐스케이드레이크/2.40GHz/16.5MB/병행수입) [997889]",
+        "price": 894300,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=997889"
+    },
+    {
+        "name": "[INTEL] 제온 스케일러블 실버 4216 벌크 쿨러미포함 (캐스케이드레이크/2.10GHz/22MB/병행수입) [997888]",
+        "price": 1231200,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=997888"
+    },
+    {
+        "name": "[INTEL] 제온 스케일러블 실버 4316 벌크 쿨러미포함 (아이스레이크/2.3GHz/30MB/병행수입) [997885]",
+        "price": 1534000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=997885"
+    },
+    {
+        "name": "[INTEL] 제온 스케일러블 실버 4410Y 벌크 쿨러미포함 (2.0GHz/30MB/병행수입) [1019361]",
+        "price": 1032000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1019361"
+    },
+    {
+        "name": "[INTEL] 코어10세대 i3-10105F 벌크 (코멧레이크 리프레시/3.7GHz/6MB/병행수입) 동쿨러 포함[787615]",
+        "price": 89000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=787615"
+    },
+    {
+        "name": "[INTEL] 코어10세대 i3-10105F 벌크 (코멧레이크 리프레시/3.7GHz/6MB/병행수입) 쿨러 미포함[777168]",
+        "price": 76850,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=777168"
+    },
+    {
+        "name": "[INTEL] 코어10세대 i5-10600KF 벌크 (코멧레이크/4.1GHz/12MB/병행수입) [동쿨러 포함][1119190]",
+        "price": 160000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1119190"
+    },
+    {
+        "name": "[INTEL] 코어10세대 i5-10600KF 벌크 (코멧레이크/4.1GHz/12MB/병행수입) [쿨러 미포함][1119192]",
+        "price": 146000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1119192"
+    },
+    {
+        "name": "[INTEL] 코어12세대 i5-12600K 벌크 (엘더레이크/3.7GHz/20MB/병행수입) 동쿨러 포함[856092]",
+        "price": 274000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=856092"
+    },
+    {
+        "name": "[INTEL] 코어12세대 i9-12900KF (엘더레이크/3.2GHz/14MB/병행수입) 쿨러미포함 [1213990]",
+        "price": 499000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1213990"
+    },
+    {
+        "name": "[INTEL] 코어13세대 i7-13700F (랩터레이크/2.10GHz/30MB) 정품벌크[981962]",
+        "price": 459000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=981962"
+    },
+    {
+        "name": "[INTEL] 코어14세대 i5-14600 벌크 쿨러 미포함 (랩터레이크 리프레시/2.7GHz/24MB/병행수입) [1108569]",
+        "price": 373000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1108569"
+    },
+    {
+        "name": "[INTEL] 코어9세대 i5-9600 벌크 (커피레이크 리프레시/3.0GHz/9MB/병행수입) 동쿨러 포함[993606]",
+        "price": 139000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=993606"
+    },
+    {
+        "name": "[INTEL] 코어9세대 i5-9600 벌크 (커피레이크 리프레시/3.0GHz/9MB/병행수입) 쿨러 미포함[993607]",
+        "price": 129860,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=993607"
+    },
+    {
+        "name": "[INTEL] 코어9세대 i5-9600 벌크 (커피레이크 리프레시/3.0GHz/9MB/병행수입) 쿨러 포함[993608]",
+        "price": 138000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=993608"
+    },
+    {
+        "name": "[INTEL] 코어9세대 i7-9700k 벌크 쿨러미포함 (커피레이크 리프레시/3.6GHz/12MB/병행수입) [946297]",
+        "price": 224000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=946297"
+    },
+    {
+        "name": "[AMD] 라이젠7 라파엘 7800X3D (8코어/16스레드/4.2GHz/쿨러미포함) 대리점정품[1013844]",
+        "price": 630000,
+        "link": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo=1013844"
+    }
+]

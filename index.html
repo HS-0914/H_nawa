@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <title>PC 견적 구성</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body class="h-screen flex bg-gray-100">
+    <!-- 왼쪽: 카테고리 + 사이트 선택 -->
+    <aside class="w-64 bg-white border-r p-4 overflow-y-auto">
+      <h2 class="text-xl font-bold mb-4">카테고리</h2>
+      <ul class="space-y-2 mb-6">
+        <li>
+          <button
+            onclick="loadParts('CPU')"
+            class="w-full text-left hover:text-blue-600"
+          >
+            CPU
+          </button>
+        </li>
+        <li>
+          <button
+            onclick="loadParts('메인보드')"
+            class="w-full text-left hover:text-blue-600"
+          >
+            메인보드
+          </button>
+        </li>
+        <li>
+          <button
+            onclick="loadParts('메모리')"
+            class="w-full text-left hover:text-blue-600"
+          >
+            메모리
+          </button>
+        </li>
+        <li>
+          <button
+            onclick="loadParts('그래픽카드')"
+            class="w-full text-left hover:text-blue-600"
+          >
+            그래픽카드
+          </button>
+        </li>
+        <li>
+          <button
+            onclick="loadParts('SSD')"
+            class="w-full text-left hover:text-blue-600"
+          >
+            SSD
+          </button>
+        </li>
+        <li>
+          <button
+            onclick="loadParts('HDD')"
+            class="w-full text-left hover:text-blue-600"
+          >
+            HDD
+          </button>
+        </li>
+        <li>
+          <button
+            onclick="loadParts('케이스')"
+            class="w-full text-left hover:text-blue-600"
+          >
+            케이스
+          </button>
+        </li>
+        <li>
+          <button
+            onclick="loadParts('파워')"
+            class="w-full text-left hover:text-blue-600"
+          >
+            파워
+          </button>
+        </li>
+      </ul>
+
+      <h2 class="text-lg font-semibold mb-2">사이트 선택</h2>
+      <div class="flex flex-col space-y-2">
+        <button
+          onclick="setSiteFilter('all')"
+          class="text-left hover:text-blue-500"
+        >
+          전체 보기
+        </button>
+        <button
+          onclick="setSiteFilter(0)"
+          class="text-left hover:text-blue-500"
+        >
+          다나와만
+        </button>
+        <button
+          onclick="setSiteFilter(1)"
+          class="text-left hover:text-blue-500"
+        >
+          컴퓨존만
+        </button>
+        <!-- 사이트가 추가되면 여기에 버튼만 추가하면 됨 -->
+      </div>
+    </aside>
+
+    <!-- 중앙: 부품 목록 -->
+    <main class="flex-1 overflow-y-auto p-6">
+      <h2 id="category-title" class="text-2xl font-semibold mb-4">부품 목록</h2>
+      <div class="flex items-center gap-4 mb-4">
+        <select
+          id="sort-order"
+          onchange="renderParts()"
+          class="p-2 border rounded"
+        >
+          <option value="none">정렬 안 함</option>
+          <option value="asc">가격 낮은순</option>
+          <option value="desc">가격 높은순</option>
+        </select>
+
+        <input
+          type="text"
+          id="search-keyword"
+          oninput="renderParts()"
+          placeholder="부품 이름 검색"
+          class="p-2 border rounded flex-1"
+        />
+      </div>
+      <div
+        id="parts-list"
+        class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4"
+      >
+        <!-- 부품 카드가 여기에 들어감 -->
+      </div>
+    </main>
+
+    <!-- 오른쪽: 선택된 부품 목록 -->
+    <aside class="w-72 bg-white border-l p-4 overflow-y-auto">
+      <h2 class="text-xl font-bold mb-4">선택한 부품</h2>
+      <ul id="selected-parts" class="space-y-2"></ul>
+      <div class="mt-4 font-bold">합계: <span id="total-price">0원</span></div>
+      <button
+        onclick="resetParts()"
+        class="mt-2 w-full bg-gray-300 hover:bg-gray-400 text-sm py-1 rounded"
+      >
+        전체 초기화
+      </button>
+    </aside>
+
+    <!-- JS -->
+    <script>
+      const selectedParts = [];
+      let siteFilter = "all"; // 현재 선택된 사이트 ("all", 0, 1, 2, ...)
+      let loadedParts = []; // 서버에서 받아온 전체 부품
+      let lens = []; // 사이트별 부품 개수 배열
+      let siteParts = []; // 사이트별 부품 배열로 분리한 것
+
+      async function loadParts(category) {
+        document.getElementById(
+          "category-title"
+        ).textContent = `${category} 목록`;
+        const url = "http://localhost:8000";
+        const res = await fetch(`${url}/parts/${category}`);
+        const data = await res.json();
+
+        loadedParts = data.data;
+        lens = data.lens;
+
+        // 사이트별 파트 리스트 분리
+        siteParts = [];
+        let start = 0;
+        for (let i = 0; i < lens.length; i++) {
+          const end = start + lens[i];
+          siteParts.push(loadedParts.slice(start, end));
+          start = end;
+        }
+
+        renderParts();
+      }
+
+      function renderParts() {
+        const list = document.getElementById("parts-list");
+        list.innerHTML = "";
+
+        let parts = [];
+
+        if (siteFilter === "all") {
+          siteParts.forEach((partList) => parts.push(...partList));
+        } else if (siteFilter < siteParts.length) {
+          parts = siteParts[siteFilter];
+        }
+
+        // 검색 필터
+        const keyword = document.getElementById("search-keyword")?.value.trim();
+        if (keyword) {
+          parts = parts.filter((part) => part.name.includes(keyword));
+        }
+
+        // 정렬 필터
+        const sortOrder = document.getElementById("sort-order")?.value;
+        if (sortOrder === "asc") {
+          parts.sort((a, b) => a.price - b.price);
+        } else if (sortOrder === "desc") {
+          parts.sort((a, b) => b.price - a.price);
+        }
+
+        parts.forEach((part) => {
+          const item = document.createElement("div");
+          item.className =
+            "bg-white p-4 rounded shadow hover:shadow-lg transition";
+          item.innerHTML = `
+            <h3 class="text-lg font-semibold">${part.name}</h3>
+            <p class="text-gray-700">${part.price.toLocaleString()}원</p>
+            <a href="${
+              part.link
+            }" target="_blank" class="text-sm text-blue-500 underline">상세 보기</a>
+            <button onclick='selectPart("${part.category || ""}", "${
+            part.name
+          }", ${part.price})'
+              class="mt-2 block w-full bg-blue-500 text-white py-1 rounded hover:bg-blue-600">담기</button>
+          `;
+          list.appendChild(item);
+        });
+      }
+
+      function selectPart(category, name, price) {
+        selectedParts.push({ category, name, price });
+        updateSelectedList();
+      }
+
+      function updateSelectedList() {
+        const ul = document.getElementById("selected-parts");
+        ul.innerHTML = "";
+
+        selectedParts.forEach((part, idx) => {
+          const li = document.createElement("li");
+          li.className =
+            "bg-blue-50 p-2 rounded flex justify-between items-center";
+          li.innerHTML = `
+            <div>
+              <strong>[${part.category}]</strong> ${
+            part.name
+          } - ${part.price.toLocaleString()}원
+            </div>
+            <button onclick="removePart(${idx})" class="text-red-500 hover:text-red-700 ml-2">X</button>
+          `;
+          ul.appendChild(li);
+        });
+
+        const total = selectedParts.reduce((sum, part) => sum + part.price, 0);
+        document.getElementById("total-price").textContent =
+          total.toLocaleString() + "원";
+
+        localStorage.setItem("selectedParts", JSON.stringify(selectedParts));
+      }
+
+      function removePart(index) {
+        selectedParts.splice(index, 1);
+        updateSelectedList();
+      }
+
+      function resetParts() {
+        selectedParts.length = 0;
+        updateSelectedList();
+      }
+
+      function setSiteFilter(filter) {
+        siteFilter = filter;
+        // 현재 선택된 카테고리 다시 렌더링
+        const title = document.getElementById("category-title").textContent;
+        const match = title.match(/^(.+?) 목록/);
+        if (match) loadParts(match[1]);
+      }
+
+      window.onload = () => {
+        const saved = localStorage.getItem("selectedParts");
+        if (saved) {
+          try {
+            const parsed = JSON.parse(saved);
+            if (Array.isArray(parsed)) {
+              selectedParts.push(...parsed);
+              updateSelectedList();
+            }
+          } catch (e) {}
+        }
+      };
+    </script>
+  </body>
+</html>

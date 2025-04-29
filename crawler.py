@@ -1,3 +1,4 @@
+import asyncio
 import re
 from playwright.async_api import async_playwright, Page, Locator
 from bs4 import BeautifulSoup, ResultSet, Tag
@@ -23,6 +24,7 @@ async def crawler_danawa(url: str, category: str, selectors: dict):
         # 카테고리 버튼 클릭 (예: CPU, 메모리, 그래픽카드 등)
         await page.locator(selectors["button"], has_text=category).click()
         await page.wait_for_timeout(1000 * 5)
+        await page.wait_for_load_state("load")
 
         # 크롤링한거 분류
         while True:
@@ -39,7 +41,7 @@ async def crawler_danawa(url: str, category: str, selectors: dict):
             elif (page_Num != 1):
                 page_count = page.get_by_role(
                     "link", name=str(page_Num), exact=True)
-                if (page_count.count() > 0):
+                if (await page_count.count() > 0):
                     await page_count.click()
                     await page.wait_for_timeout(500)
                     await page.wait_for_load_state("load")
@@ -111,10 +113,11 @@ async def scroll_down(page: Page, scroll_target: Locator):
         await scroll_target.evaluate("el => el.scrollTo(0, el.scrollHeight)")
 
         # 데이터가 로드될 시간을 주기
-        await page.wait_for_timeout(1000)  # 1초 대기
+        await page.wait_for_timeout(500)  # 0.5초 대기
+        await page.wait_for_load_state("load")
 
 
-"""
+"""549 610
 if __name__ == "__main__":
     url = "https://shop.danawa.com/virtualestimate/?controller=estimateMain&methods=index&marketPlaceSeq=16"
     category = ["CPU","쿨러","메인보드","메모리","그래픽카드","SSD","HDD","케이스", "파워"]
@@ -129,13 +132,16 @@ if __name__ == "__main__":
     for p in parts:
         print(p)
 """
-if __name__ == "__main__":
+
+
+async def main_f():
     urls = [
         "https://shop.danawa.com/virtualestimate/?controller=estimateMain&methods=index&marketPlaceSeq=16",
         "https://www.compuzone.co.kr/online/online_main.htm?bannerid=GNBBannerOnlineMain",
     ]
-    categorys = ["CPU", "쿨러", "메인보드", "메모리",
-                 "그래픽카드", "SSD", "HDD", "케이스", "파워"]
+    categorys = [
+        "그래픽카드"
+    ]
     selectors_list = [
         {
             "button": ".pd_list_area > .pd_list:nth-child(1) dd > a",
@@ -154,9 +160,14 @@ if __name__ == "__main__":
             "href": "https://www.compuzone.co.kr/product/product_detail.htm?opt_chk=Y&ProductNo="
         }
     ]
+
     for i in range(len(urls)):
         for category in categorys:
-            parts = crawler_danawa(urls[i], category, selectors_list[i])
-            # for p in parts:
-            #     print(p)
+            parts = await crawler_danawa(urls[i], category, selectors_list[i])
+            for p in parts:
+                print(p)
             print(len(parts))
+
+# 비동기 함수 실행
+if __name__ == "__main__":
+    asyncio.run(main_f())
