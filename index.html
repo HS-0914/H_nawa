@@ -146,6 +146,8 @@
     <!-- JS -->
     <script>
       const selectedParts = [];
+      // const url = "http://localhost:8000";
+      const url = "https://port-0-h-nawa-ma2r1orz081fbcd5.sel4.cloudtype.app";
       let siteFilter = "all"; // 현재 선택된 사이트 ("all", 0, 1, 2, ...)
       let loadedParts = []; // 서버에서 받아온 전체 부품
       let lens = []; // 사이트별 부품 개수 배열
@@ -157,7 +159,6 @@
         document.getElementById(
           "category-title"
         ).textContent = `${category} 목록`;
-        const url = "http://localhost:8000";
         const res = await fetch(`${url}/parts/${category}`);
         const data = await res.json();
 
