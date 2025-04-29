@@ -8,11 +8,13 @@ def run(playwright: Playwright) -> None:
     page = context.new_page()
     page.goto(
         "https://www.compuzone.co.kr/online/online_main.htm?bannerid=GNBBannerOnlineMain")
-    btn = page.locator(".category_sub li", has_text="CPU")
+    page.locator(".category_sub li", has_text="CPU").click()
+
+    # page.wait_for_timeout(3000)
+    # page.wait_for_selector("#sr_list_item_tb")
+    page.wait_for_load_state("networkidle")
     btn = page.locator("#sr_list_item_tb tr")
     print(btn.count())
-
-    page.wait_for_timeout(3000)
 
     # page.goto(
     #     "https://shop.danawa.com/virtualestimate/?controller=estimateMain&methods=index&marketPlaceSeq=16")
@@ -21,8 +23,6 @@ def run(playwright: Playwright) -> None:
     # page.locator(
     #     ".pagination-box__list .btn-pagination__arrow").click()
 
-    test = page.locator("a.next").count()
-    print(test)
     # page.wait_for_selector("#estimateMainProduct")
     # html = page.content()
     # print(html)
